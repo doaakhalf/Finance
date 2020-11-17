@@ -1,0 +1,8 @@
+Item Code ,Description ,Disabled,Item Name,	Item Group,	Default Unit of Measure,	Opening Stock,Maintain Stock,Brand,	Valuation Rate,Standard Selling Rate,Valuation Method,Minimum Order Qty	,Is Purchase Item,Safety Stock,	Is Sales Item,ID (Item Defaults),Default Warehouse (Item Defaults)	,Company (Item Defaults)
+63920719,,0,product1,cat1,Unit,20,1,FOLTENE,6,4,FIFO,1,1,2,1,1,Stores - B,Branderaa
+39081661,,0,product2,cat1,Unit,20,1,HP,19,10,FIFO,1,1,3,1,1,Stores - B,Branderaa
+339081661,,0,product4,cat1,Unit,20,1,HP,19,10,FIFO,1,1,3,1,1,Stores - B,Branderaa
+363920719,,0,product3,cat1,Unit,20,1,FOLTENE,6,4,FIFO,1,1,2,1,1,Stores - B,Branderaa
+94767214,,0,test,cat1,Unit,0,1,DCL,3,3,FIFO,1,1,2,1,1,Stores - B,Branderaa
+31419232,,0,test2,cat1,Unit,0,1,FILORGA,4,5,FIFO,1,1,2,1,1,Stores - B,Branderaa
+94314308,,0,test3,cat2,Unit,30,1,samsung,4,4,FIFO,1,1,3,1,1,Stores - B,Branderaa

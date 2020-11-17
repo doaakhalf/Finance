@@ -1,0 +1,782 @@
+02:30:51 Cleaning registries for queue: long
+02:57:51 Cleaning registries for queue: long
+03:24:52 Cleaning registries for queue: long
+03:51:52 Cleaning registries for queue: long
+04:18:52 Cleaning registries for queue: long
+04:45:53 Cleaning registries for queue: long
+05:12:53 Cleaning registries for queue: long
+05:39:53 Cleaning registries for queue: long
+06:06:53 Cleaning registries for queue: long
+06:33:54 Cleaning registries for queue: long
+07:00:54 Cleaning registries for queue: long
+07:27:54 Cleaning registries for queue: long
+07:54:54 Cleaning registries for queue: long
+08:21:55 Cleaning registries for queue: long
+08:48:55 Cleaning registries for queue: long
+09:15:55 Cleaning registries for queue: long
+09:42:56 Cleaning registries for queue: long
+10:09:56 Cleaning registries for queue: long
+10:36:56 Cleaning registries for queue: long
+11:03:56 Cleaning registries for queue: long
+11:30:57 Cleaning registries for queue: long
+11:57:57 Cleaning registries for queue: long
+12:24:57 Cleaning registries for queue: long
+12:51:58 Cleaning registries for queue: long
+13:18:58 Cleaning registries for queue: long
+13:45:58 Cleaning registries for queue: long
+14:12:58 Cleaning registries for queue: long
+14:39:59 Cleaning registries for queue: long
+15:06:59 Cleaning registries for queue: long
+15:33:59 Cleaning registries for queue: long
+16:01:00 Cleaning registries for queue: long
+16:28:00 Cleaning registries for queue: long
+16:55:00 Cleaning registries for queue: long
+17:22:01 Cleaning registries for queue: long
+17:49:01 Cleaning registries for queue: long
+18:16:01 Cleaning registries for queue: long
+18:43:01 Cleaning registries for queue: long
+19:10:02 Cleaning registries for queue: long
+19:37:02 Cleaning registries for queue: long
+20:04:02 Cleaning registries for queue: long
+20:31:02 Cleaning registries for queue: long
+20:58:03 Cleaning registries for queue: long
+21:25:03 Cleaning registries for queue: long
+21:52:03 Cleaning registries for queue: long
+21:54:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (4e3a22ef-5e10-44be-b9ee-fe2e9d305b82)
+21:54:35 long: Job OK (4e3a22ef-5e10-44be-b9ee-fe2e9d305b82)
+21:54:35 Result is kept for 500 seconds
+21:54:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (5706612d-4a6c-40b0-b58a-708b0c48257a)
+21:54:36 long: Job OK (5706612d-4a6c-40b0-b58a-708b0c48257a)
+21:54:36 Result is kept for 500 seconds
+21:54:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (01be4d2a-ffe0-4e63-9fed-3322de4f00a6)
+21:54:37 long: Job OK (01be4d2a-ffe0-4e63-9fed-3322de4f00a6)
+21:54:37 Result is kept for 500 seconds
+21:54:37 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (9885bf66-72e2-49b6-8163-2a7c0ee430bd)
+21:54:37 long: Job OK (9885bf66-72e2-49b6-8163-2a7c0ee430bd)
+21:54:37 Result is kept for 500 seconds
+22:00:38 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (d438702b-3377-4c74-a024-f5b8a4cb006b)
+22:00:38 long: Job OK (d438702b-3377-4c74-a024-f5b8a4cb006b)
+22:00:38 Result is kept for 500 seconds
+22:00:38 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (875c4b2d-9856-4fb8-b303-2aa924d38ecb)
+22:00:39 long: Job OK (875c4b2d-9856-4fb8-b303-2aa924d38ecb)
+22:00:39 Result is kept for 500 seconds
+22:00:39 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (deac76fb-8f87-4286-afbf-ada97503742b)
+22:00:39 long: Job OK (deac76fb-8f87-4286-afbf-ada97503742b)
+22:00:39 Result is kept for 500 seconds
+22:00:39 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (68c1ccf4-3569-4df0-b53a-f670072f6de1)
+22:00:40 long: Job OK (68c1ccf4-3569-4df0-b53a-f670072f6de1)
+22:00:40 Result is kept for 500 seconds
+22:00:40 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (514f2626-be1f-4ae3-bb9e-53b961a4d5f0)
+22:00:40 long: Job OK (514f2626-be1f-4ae3-bb9e-53b961a4d5f0)
+22:00:40 Result is kept for 500 seconds
+22:00:40 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (8fd3330f-9db0-4d77-890e-ad7da276b1fa)
+22:00:41 long: Job OK (8fd3330f-9db0-4d77-890e-ad7da276b1fa)
+22:00:41 Result is kept for 500 seconds
+22:00:41 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (88d45904-2155-4713-91f4-ee2334fa23a6)
+22:00:41 long: Job OK (88d45904-2155-4713-91f4-ee2334fa23a6)
+22:00:41 Result is kept for 500 seconds
+22:00:41 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (2c62e680-93e6-4d01-ae66-b4efc3c7a1c2)
+22:00:41 long: Job OK (2c62e680-93e6-4d01-ae66-b4efc3c7a1c2)
+22:00:41 Result is kept for 500 seconds
+22:00:41 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4862082d-4136-4a81-a3bb-7755e419bbfd)
+22:00:41 long: Job OK (4862082d-4136-4a81-a3bb-7755e419bbfd)
+22:00:41 Result is kept for 500 seconds
+22:00:41 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (3cd0ceef-275a-4054-88e3-f44356136a48)
+22:00:42 long: Job OK (3cd0ceef-275a-4054-88e3-f44356136a48)
+22:00:42 Result is kept for 500 seconds
+22:00:42 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (9c2efe40-55d0-439b-878d-aae0e3912d23)
+22:00:42 long: Job OK (9c2efe40-55d0-439b-878d-aae0e3912d23)
+22:00:42 Result is kept for 500 seconds
+22:07:27 Cleaning registries for queue: long
+22:34:27 Cleaning registries for queue: long
+23:01:28 Cleaning registries for queue: long
+23:28:28 Cleaning registries for queue: long
+23:55:28 Cleaning registries for queue: long
+00:22:28 Cleaning registries for queue: long
+00:49:29 Cleaning registries for queue: long
+01:16:29 Cleaning registries for queue: long
+01:43:29 Cleaning registries for queue: long
+02:10:29 Cleaning registries for queue: long
+02:37:30 Cleaning registries for queue: long
+03:04:30 Cleaning registries for queue: long
+03:31:30 Cleaning registries for queue: long
+03:58:31 Cleaning registries for queue: long
+04:25:31 Cleaning registries for queue: long
+04:52:31 Cleaning registries for queue: long
+05:19:31 Cleaning registries for queue: long
+05:46:32 Cleaning registries for queue: long
+06:13:32 Cleaning registries for queue: long
+06:40:32 Cleaning registries for queue: long
+07:07:32 Cleaning registries for queue: long
+07:34:33 Cleaning registries for queue: long
+08:01:33 Cleaning registries for queue: long
+08:28:33 Cleaning registries for queue: long
+08:55:33 Cleaning registries for queue: long
+09:22:34 Cleaning registries for queue: long
+09:49:34 Cleaning registries for queue: long
+10:16:34 Cleaning registries for queue: long
+10:43:34 Cleaning registries for queue: long
+11:10:34 Cleaning registries for queue: long
+11:37:35 Cleaning registries for queue: long
+12:04:35 Cleaning registries for queue: long
+12:31:35 Cleaning registries for queue: long
+12:58:36 Cleaning registries for queue: long
+13:25:36 Cleaning registries for queue: long
+13:52:36 Cleaning registries for queue: long
+14:19:37 Cleaning registries for queue: long
+14:46:37 Cleaning registries for queue: long
+15:13:37 Cleaning registries for queue: long
+15:40:38 Cleaning registries for queue: long
+16:07:38 Cleaning registries for queue: long
+16:34:38 Cleaning registries for queue: long
+17:01:38 Cleaning registries for queue: long
+17:28:39 Cleaning registries for queue: long
+17:55:39 Cleaning registries for queue: long
+18:22:39 Cleaning registries for queue: long
+18:49:40 Cleaning registries for queue: long
+19:16:40 Cleaning registries for queue: long
+19:43:40 Cleaning registries for queue: long
+20:10:40 Cleaning registries for queue: long
+20:37:41 Cleaning registries for queue: long
+21:04:41 Cleaning registries for queue: long
+21:31:41 Cleaning registries for queue: long
+21:55:26 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (aa38fac0-4cf4-4106-9d46-cf91436d5800)
+21:55:27 long: Job OK (aa38fac0-4cf4-4106-9d46-cf91436d5800)
+21:55:27 Result is kept for 500 seconds
+21:55:27 Cleaning registries for queue: long
+21:55:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (70308d52-68bb-409e-911e-2beab044d2f3)
+21:55:28 long: Job OK (70308d52-68bb-409e-911e-2beab044d2f3)
+21:55:28 Result is kept for 500 seconds
+21:55:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (203823f6-249e-436b-bc08-dee2eeacf2d2)
+21:55:28 long: Job OK (203823f6-249e-436b-bc08-dee2eeacf2d2)
+21:55:28 Result is kept for 500 seconds
+21:55:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (84aff3e9-69f7-4762-a582-b4107fc99d91)
+21:55:28 long: Job OK (84aff3e9-69f7-4762-a582-b4107fc99d91)
+21:55:28 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f420462e-5a6b-41ef-8fcf-2c168a4332a1)
+22:00:29 long: Job OK (f420462e-5a6b-41ef-8fcf-2c168a4332a1)
+22:00:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (197d0e81-ff21-48ee-a7f9-e7618f43e1d4)
+22:00:30 long: Job OK (197d0e81-ff21-48ee-a7f9-e7618f43e1d4)
+22:00:30 Result is kept for 500 seconds
+22:00:30 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (a6d04488-f28a-4c24-926f-3a6089e8fd0f)
+22:00:30 long: Job OK (a6d04488-f28a-4c24-926f-3a6089e8fd0f)
+22:00:30 Result is kept for 500 seconds
+22:00:30 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (01284575-86a9-49b2-8b4c-017732ceb291)
+22:00:31 long: Job OK (01284575-86a9-49b2-8b4c-017732ceb291)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (de829e58-e6b5-4e48-9d41-ca513741ad22)
+22:00:31 long: Job OK (de829e58-e6b5-4e48-9d41-ca513741ad22)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (831c2ddc-b281-4c74-8334-26138f96ac54)
+22:00:31 long: Job OK (831c2ddc-b281-4c74-8334-26138f96ac54)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (6668dedd-967d-4239-a7b3-22947107014d)
+22:00:32 long: Job OK (6668dedd-967d-4239-a7b3-22947107014d)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (a28f1cb3-891b-4b57-8d8a-e9b1eccd88e5)
+22:00:32 long: Job OK (a28f1cb3-891b-4b57-8d8a-e9b1eccd88e5)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4bc4f36d-09e1-4142-806d-d34c3457c359)
+22:00:32 long: Job OK (4bc4f36d-09e1-4142-806d-d34c3457c359)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (a9bd7a9c-2a21-48cf-8539-449353deea22)
+22:00:33 long: Job OK (a9bd7a9c-2a21-48cf-8539-449353deea22)
+22:00:33 Result is kept for 500 seconds
+22:00:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (7948bcf4-dc25-4e49-9963-0919d1c77536)
+22:00:33 long: Job OK (7948bcf4-dc25-4e49-9963-0919d1c77536)
+22:00:33 Result is kept for 500 seconds
+22:20:48 Cleaning registries for queue: long
+22:47:49 Cleaning registries for queue: long
+23:14:49 Cleaning registries for queue: long
+23:41:50 Cleaning registries for queue: long
+00:08:50 Cleaning registries for queue: long
+00:35:50 Cleaning registries for queue: long
+01:02:50 Cleaning registries for queue: long
+01:29:50 Cleaning registries for queue: long
+01:56:51 Cleaning registries for queue: long
+02:23:51 Cleaning registries for queue: long
+02:50:51 Cleaning registries for queue: long
+03:17:52 Cleaning registries for queue: long
+03:44:52 Cleaning registries for queue: long
+04:11:52 Cleaning registries for queue: long
+04:38:52 Cleaning registries for queue: long
+05:05:53 Cleaning registries for queue: long
+05:32:53 Cleaning registries for queue: long
+05:59:53 Cleaning registries for queue: long
+06:26:54 Cleaning registries for queue: long
+06:53:54 Cleaning registries for queue: long
+07:20:54 Cleaning registries for queue: long
+07:47:54 Cleaning registries for queue: long
+08:14:55 Cleaning registries for queue: long
+08:41:55 Cleaning registries for queue: long
+09:08:55 Cleaning registries for queue: long
+09:35:55 Cleaning registries for queue: long
+10:02:56 Cleaning registries for queue: long
+10:29:56 Cleaning registries for queue: long
+10:56:56 Cleaning registries for queue: long
+11:23:56 Cleaning registries for queue: long
+11:50:57 Cleaning registries for queue: long
+12:17:57 Cleaning registries for queue: long
+12:44:57 Cleaning registries for queue: long
+13:11:57 Cleaning registries for queue: long
+13:38:57 Cleaning registries for queue: long
+14:05:58 Cleaning registries for queue: long
+14:32:58 Cleaning registries for queue: long
+14:59:58 Cleaning registries for queue: long
+15:26:59 Cleaning registries for queue: long
+15:53:59 Cleaning registries for queue: long
+16:20:59 Cleaning registries for queue: long
+16:47:59 Cleaning registries for queue: long
+17:14:59 Cleaning registries for queue: long
+17:42:00 Cleaning registries for queue: long
+18:09:00 Cleaning registries for queue: long
+18:36:00 Cleaning registries for queue: long
+19:03:00 Cleaning registries for queue: long
+19:30:01 Cleaning registries for queue: long
+19:57:01 Cleaning registries for queue: long
+20:24:01 Cleaning registries for queue: long
+20:51:01 Cleaning registries for queue: long
+21:18:02 Cleaning registries for queue: long
+21:45:02 Cleaning registries for queue: long
+21:56:23 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (681c8c92-7e13-4fb7-b0bc-90d2e7e04061)
+21:56:23 long: Job OK (681c8c92-7e13-4fb7-b0bc-90d2e7e04061)
+21:56:23 Result is kept for 500 seconds
+21:56:23 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (aab4eec6-df80-4279-9495-264a0d0eac76)
+21:56:24 long: Job OK (aab4eec6-df80-4279-9495-264a0d0eac76)
+21:56:24 Result is kept for 500 seconds
+21:56:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (011406c8-2178-43d1-9a62-838a9ea98f31)
+21:56:24 long: Job OK (011406c8-2178-43d1-9a62-838a9ea98f31)
+21:56:24 Result is kept for 500 seconds
+21:56:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (696da276-1508-463b-8912-328b2494b81e)
+21:56:25 long: Job OK (696da276-1508-463b-8912-328b2494b81e)
+21:56:25 Result is kept for 500 seconds
+22:00:25 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (ebec957f-02c9-4d88-9996-0fa71f4a1e5a)
+22:00:25 long: Job OK (ebec957f-02c9-4d88-9996-0fa71f4a1e5a)
+22:00:25 Result is kept for 500 seconds
+22:00:25 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4839724d-8901-43da-b27b-9663a693d10c)
+22:00:26 long: Job OK (4839724d-8901-43da-b27b-9663a693d10c)
+22:00:26 Result is kept for 500 seconds
+22:00:26 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (c91fd035-26f5-49be-9495-9526c896e0e1)
+22:00:26 long: Job OK (c91fd035-26f5-49be-9495-9526c896e0e1)
+22:00:26 Result is kept for 500 seconds
+22:00:26 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (09f748be-21cd-41f4-b2e1-51416b14001e)
+22:00:27 long: Job OK (09f748be-21cd-41f4-b2e1-51416b14001e)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (5ac7942c-9ca2-49e8-b41b-d54e823401af)
+22:00:27 long: Job OK (5ac7942c-9ca2-49e8-b41b-d54e823401af)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (45de0744-a0c7-4f10-9257-992585f26319)
+22:00:27 long: Job OK (45de0744-a0c7-4f10-9257-992585f26319)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (1a2e4b5a-3cbe-4e21-bcf9-668023f50ba5)
+22:00:28 long: Job OK (1a2e4b5a-3cbe-4e21-bcf9-668023f50ba5)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (59b1bdca-8839-4c32-b516-3a618c73a2a6)
+22:00:28 long: Job OK (59b1bdca-8839-4c32-b516-3a618c73a2a6)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (74df2dd9-7e96-4fad-99ed-4bb5ff4cb90d)
+22:00:28 long: Job OK (74df2dd9-7e96-4fad-99ed-4bb5ff4cb90d)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (c3c137c1-a728-43e2-9723-d90c1e670f21)
+22:00:29 long: Job OK (c3c137c1-a728-43e2-9723-d90c1e670f21)
+22:00:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (6e7c85dc-c461-4b77-8013-ef485543eba9)
+22:00:29 long: Job OK (6e7c85dc-c461-4b77-8013-ef485543eba9)
+22:00:29 Result is kept for 500 seconds
+22:07:14 Cleaning registries for queue: long
+22:34:14 Cleaning registries for queue: long
+23:01:14 Cleaning registries for queue: long
+23:28:15 Cleaning registries for queue: long
+23:55:15 Cleaning registries for queue: long
+00:22:15 Cleaning registries for queue: long
+00:49:16 Cleaning registries for queue: long
+01:16:16 Cleaning registries for queue: long
+01:43:16 Cleaning registries for queue: long
+02:10:16 Cleaning registries for queue: long
+02:37:17 Cleaning registries for queue: long
+03:04:17 Cleaning registries for queue: long
+03:31:17 Cleaning registries for queue: long
+03:58:18 Cleaning registries for queue: long
+04:25:18 Cleaning registries for queue: long
+04:52:19 Cleaning registries for queue: long
+05:19:19 Cleaning registries for queue: long
+05:46:19 Cleaning registries for queue: long
+06:13:20 Cleaning registries for queue: long
+06:40:20 Cleaning registries for queue: long
+07:07:20 Cleaning registries for queue: long
+07:34:20 Cleaning registries for queue: long
+08:01:21 Cleaning registries for queue: long
+08:28:21 Cleaning registries for queue: long
+08:55:21 Cleaning registries for queue: long
+09:22:21 Cleaning registries for queue: long
+09:49:22 Cleaning registries for queue: long
+10:16:22 Cleaning registries for queue: long
+10:43:22 Cleaning registries for queue: long
+11:10:22 Cleaning registries for queue: long
+11:37:23 Cleaning registries for queue: long
+12:04:23 Cleaning registries for queue: long
+12:31:23 Cleaning registries for queue: long
+12:58:23 Cleaning registries for queue: long
+13:25:24 Cleaning registries for queue: long
+13:52:24 Cleaning registries for queue: long
+14:19:24 Cleaning registries for queue: long
+14:46:25 Cleaning registries for queue: long
+15:13:25 Cleaning registries for queue: long
+15:40:25 Cleaning registries for queue: long
+16:07:25 Cleaning registries for queue: long
+16:34:26 Cleaning registries for queue: long
+17:01:26 Cleaning registries for queue: long
+17:28:26 Cleaning registries for queue: long
+17:55:26 Cleaning registries for queue: long
+18:22:27 Cleaning registries for queue: long
+18:49:27 Cleaning registries for queue: long
+19:16:27 Cleaning registries for queue: long
+19:43:27 Cleaning registries for queue: long
+20:10:28 Cleaning registries for queue: long
+20:37:28 Cleaning registries for queue: long
+21:04:28 Cleaning registries for queue: long
+21:31:29 Cleaning registries for queue: long
+21:57:23 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (cf53b0eb-1bb5-4f28-96c2-704a14eae86b)
+21:57:24 long: Job OK (cf53b0eb-1bb5-4f28-96c2-704a14eae86b)
+21:57:24 Result is kept for 500 seconds
+21:57:24 Cleaning registries for queue: long
+21:57:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (b1b48da3-0b2e-47a6-a7e3-acad20cbbc90)
+21:57:24 long: Job OK (b1b48da3-0b2e-47a6-a7e3-acad20cbbc90)
+21:57:24 Result is kept for 500 seconds
+21:57:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (bb27a77b-c11d-42fd-97dc-0cb54b3ec41b)
+21:57:25 long: Job OK (bb27a77b-c11d-42fd-97dc-0cb54b3ec41b)
+21:57:25 Result is kept for 500 seconds
+21:57:25 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (f30a7dc5-136f-4417-9b48-b8970162810c)
+21:57:25 long: Job OK (f30a7dc5-136f-4417-9b48-b8970162810c)
+21:57:25 Result is kept for 500 seconds
+22:00:25 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (3566221f-6f58-4b7d-8623-1cb6e7087b7a)
+22:00:26 long: Job OK (3566221f-6f58-4b7d-8623-1cb6e7087b7a)
+22:00:26 Result is kept for 500 seconds
+22:00:26 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (bd5abe0d-66e4-4581-8d44-0d308f848553)
+22:00:26 long: Job OK (bd5abe0d-66e4-4581-8d44-0d308f848553)
+22:00:26 Result is kept for 500 seconds
+22:00:26 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f0721839-b7c9-4ffb-b75b-7bd76bb17d62)
+22:00:27 long: Job OK (f0721839-b7c9-4ffb-b75b-7bd76bb17d62)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (2aa08206-80d9-4e76-83d0-b2543c1bc03e)
+22:00:27 long: Job OK (2aa08206-80d9-4e76-83d0-b2543c1bc03e)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (fc1676c5-7c76-44fa-a7ef-20dc31f54afb)
+22:00:27 long: Job OK (fc1676c5-7c76-44fa-a7ef-20dc31f54afb)
+22:00:27 Result is kept for 500 seconds
+22:00:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (facc61ca-ade5-4556-b4a1-4a0ebb782203)
+22:00:28 long: Job OK (facc61ca-ade5-4556-b4a1-4a0ebb782203)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (91f13a60-580b-41c4-836b-0939e8105d5f)
+22:00:28 long: Job OK (91f13a60-580b-41c4-836b-0939e8105d5f)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (0f29edd7-b1c5-4e2e-be92-5d64595b4bd2)
+22:00:28 long: Job OK (0f29edd7-b1c5-4e2e-be92-5d64595b4bd2)
+22:00:28 Result is kept for 500 seconds
+22:00:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f386977c-4e09-4171-82ec-3aec517f9ede)
+22:00:29 long: Job OK (f386977c-4e09-4171-82ec-3aec517f9ede)
+22:00:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (e71838b0-44fa-4237-b94a-e5cd5436fcd1)
+22:00:29 long: Job OK (e71838b0-44fa-4237-b94a-e5cd5436fcd1)
+22:00:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (b74951fc-e560-4870-a4e0-ffcc53fd8e24)
+22:00:29 long: Job OK (b74951fc-e560-4870-a4e0-ffcc53fd8e24)
+22:00:29 Result is kept for 500 seconds
+22:14:00 Cleaning registries for queue: long
+22:41:00 Cleaning registries for queue: long
+23:08:00 Cleaning registries for queue: long
+23:35:00 Cleaning registries for queue: long
+00:02:01 Cleaning registries for queue: long
+00:29:01 Cleaning registries for queue: long
+00:56:01 Cleaning registries for queue: long
+01:23:01 Cleaning registries for queue: long
+01:50:02 Cleaning registries for queue: long
+02:17:02 Cleaning registries for queue: long
+02:44:02 Cleaning registries for queue: long
+03:11:03 Cleaning registries for queue: long
+03:38:03 Cleaning registries for queue: long
+04:05:03 Cleaning registries for queue: long
+04:32:04 Cleaning registries for queue: long
+04:59:04 Cleaning registries for queue: long
+05:26:04 Cleaning registries for queue: long
+05:53:05 Cleaning registries for queue: long
+06:20:05 Cleaning registries for queue: long
+06:47:06 Cleaning registries for queue: long
+07:14:06 Cleaning registries for queue: long
+07:41:06 Cleaning registries for queue: long
+08:08:07 Cleaning registries for queue: long
+08:35:07 Cleaning registries for queue: long
+09:02:07 Cleaning registries for queue: long
+09:29:08 Cleaning registries for queue: long
+09:56:08 Cleaning registries for queue: long
+10:23:08 Cleaning registries for queue: long
+10:50:09 Cleaning registries for queue: long
+11:17:09 Cleaning registries for queue: long
+11:44:09 Cleaning registries for queue: long
+12:11:10 Cleaning registries for queue: long
+12:38:10 Cleaning registries for queue: long
+13:05:10 Cleaning registries for queue: long
+13:32:11 Cleaning registries for queue: long
+13:59:11 Cleaning registries for queue: long
+14:26:12 Cleaning registries for queue: long
+14:53:12 Cleaning registries for queue: long
+15:20:12 Cleaning registries for queue: long
+15:47:13 Cleaning registries for queue: long
+16:14:13 Cleaning registries for queue: long
+16:41:13 Cleaning registries for queue: long
+17:08:14 Cleaning registries for queue: long
+17:35:14 Cleaning registries for queue: long
+18:02:15 Cleaning registries for queue: long
+18:29:15 Cleaning registries for queue: long
+18:56:16 Cleaning registries for queue: long
+19:23:16 Cleaning registries for queue: long
+19:50:16 Cleaning registries for queue: long
+20:17:17 Cleaning registries for queue: long
+20:44:17 Cleaning registries for queue: long
+21:11:18 Cleaning registries for queue: long
+21:38:18 Cleaning registries for queue: long
+21:58:27 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (7de0b807-869b-43ce-8b60-2e2752a6f45a)
+21:58:28 long: Job OK (7de0b807-869b-43ce-8b60-2e2752a6f45a)
+21:58:28 Result is kept for 500 seconds
+21:58:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (b907bca6-2241-46c9-9fed-6991486438c2)
+21:58:28 long: Job OK (b907bca6-2241-46c9-9fed-6991486438c2)
+21:58:28 Result is kept for 500 seconds
+21:58:28 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (b00f6295-7ac8-4d5e-bc17-390cf74ca76f)
+21:58:29 long: Job OK (b00f6295-7ac8-4d5e-bc17-390cf74ca76f)
+21:58:29 Result is kept for 500 seconds
+21:58:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (10cd0b5d-f8e1-4d81-8134-aaa471c9f9f7)
+21:58:29 long: Job OK (10cd0b5d-f8e1-4d81-8134-aaa471c9f9f7)
+21:58:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (aa568dc5-c0cd-4610-ba01-95711071278f)
+22:00:29 long: Job OK (aa568dc5-c0cd-4610-ba01-95711071278f)
+22:00:29 Result is kept for 500 seconds
+22:00:29 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (24c3be8c-03f7-4a81-b6ae-43765fbfe323)
+22:00:30 long: Job OK (24c3be8c-03f7-4a81-b6ae-43765fbfe323)
+22:00:30 Result is kept for 500 seconds
+22:00:30 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (b2495a29-bcec-44ff-a302-b870313c3062)
+22:00:31 long: Job OK (b2495a29-bcec-44ff-a302-b870313c3062)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f09d2864-9865-4190-bb8f-76fb17de0935)
+22:00:31 long: Job OK (f09d2864-9865-4190-bb8f-76fb17de0935)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (d036be0f-1778-4970-ab85-c3e3013bd7fe)
+22:00:31 long: Job OK (d036be0f-1778-4970-ab85-c3e3013bd7fe)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (273c975a-ff5f-41bb-b37b-6be9caa6f6fe)
+22:00:32 long: Job OK (273c975a-ff5f-41bb-b37b-6be9caa6f6fe)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (32fd69fe-de1f-4f13-9e4b-30df2d5331e6)
+22:00:32 long: Job OK (32fd69fe-de1f-4f13-9e4b-30df2d5331e6)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (e6fb15f2-fb7f-411d-bd71-3d60de73f550)
+22:00:32 long: Job OK (e6fb15f2-fb7f-411d-bd71-3d60de73f550)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (82ebeb86-6c37-4c5d-929a-d0d7e82bc2a8)
+22:00:33 long: Job OK (82ebeb86-6c37-4c5d-929a-d0d7e82bc2a8)
+22:00:33 Result is kept for 500 seconds
+22:00:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (634c7119-97e8-4011-ab0b-dcc5c35e372c)
+22:00:33 long: Job OK (634c7119-97e8-4011-ab0b-dcc5c35e372c)
+22:00:33 Result is kept for 500 seconds
+22:00:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (bc4e4a1f-74eb-40c3-90bb-51f17a8eaf14)
+22:00:33 long: Job OK (bc4e4a1f-74eb-40c3-90bb-51f17a8eaf14)
+22:00:33 Result is kept for 500 seconds
+22:07:18 Cleaning registries for queue: long
+22:34:19 Cleaning registries for queue: long
+23:01:19 Cleaning registries for queue: long
+23:28:20 Cleaning registries for queue: long
+23:55:20 Cleaning registries for queue: long
+00:22:20 Cleaning registries for queue: long
+00:49:21 Cleaning registries for queue: long
+01:16:21 Cleaning registries for queue: long
+01:43:21 Cleaning registries for queue: long
+02:10:22 Cleaning registries for queue: long
+02:37:22 Cleaning registries for queue: long
+03:04:22 Cleaning registries for queue: long
+03:31:23 Cleaning registries for queue: long
+03:58:23 Cleaning registries for queue: long
+04:25:24 Cleaning registries for queue: long
+04:52:24 Cleaning registries for queue: long
+05:19:25 Cleaning registries for queue: long
+05:46:25 Cleaning registries for queue: long
+06:13:26 Cleaning registries for queue: long
+06:40:26 Cleaning registries for queue: long
+07:07:26 Cleaning registries for queue: long
+07:34:27 Cleaning registries for queue: long
+08:01:27 Cleaning registries for queue: long
+08:28:27 Cleaning registries for queue: long
+08:55:28 Cleaning registries for queue: long
+09:22:28 Cleaning registries for queue: long
+09:49:29 Cleaning registries for queue: long
+10:16:29 Cleaning registries for queue: long
+10:43:29 Cleaning registries for queue: long
+11:10:30 Cleaning registries for queue: long
+11:37:30 Cleaning registries for queue: long
+12:04:30 Cleaning registries for queue: long
+12:31:31 Cleaning registries for queue: long
+12:58:31 Cleaning registries for queue: long
+13:25:32 Cleaning registries for queue: long
+13:52:32 Cleaning registries for queue: long
+14:19:32 Cleaning registries for queue: long
+14:46:33 Cleaning registries for queue: long
+15:13:33 Cleaning registries for queue: long
+15:40:33 Cleaning registries for queue: long
+16:07:34 Cleaning registries for queue: long
+16:34:34 Cleaning registries for queue: long
+17:01:34 Cleaning registries for queue: long
+17:28:35 Cleaning registries for queue: long
+17:55:35 Cleaning registries for queue: long
+18:22:35 Cleaning registries for queue: long
+18:49:36 Cleaning registries for queue: long
+19:16:36 Cleaning registries for queue: long
+19:43:36 Cleaning registries for queue: long
+20:10:37 Cleaning registries for queue: long
+20:37:37 Cleaning registries for queue: long
+21:04:37 Cleaning registries for queue: long
+21:31:38 Cleaning registries for queue: long
+21:58:38 Cleaning registries for queue: long
+21:59:30 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (515a2507-1646-4fd9-ba4f-a5938adc437d)
+21:59:30 long: Job OK (515a2507-1646-4fd9-ba4f-a5938adc437d)
+21:59:30 Result is kept for 500 seconds
+21:59:30 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (b1fabdcc-1273-40f4-9a6a-c94c863d5fb2)
+21:59:31 long: Job OK (b1fabdcc-1273-40f4-9a6a-c94c863d5fb2)
+21:59:31 Result is kept for 500 seconds
+21:59:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (7a263d5f-353a-4306-a8de-c28ffd3e5700)
+21:59:31 long: Job OK (7a263d5f-353a-4306-a8de-c28ffd3e5700)
+21:59:31 Result is kept for 500 seconds
+21:59:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (70c6d316-3516-456c-9969-a086c8cc265f)
+21:59:32 long: Job OK (70c6d316-3516-456c-9969-a086c8cc265f)
+21:59:32 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (b40816b1-d263-42ab-821b-156a3488288f)
+22:00:31 long: Job OK (b40816b1-d263-42ab-821b-156a3488288f)
+22:00:31 Result is kept for 500 seconds
+22:00:31 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4c836ca9-22e2-496a-b485-504eefef1d64)
+22:00:32 long: Job OK (4c836ca9-22e2-496a-b485-504eefef1d64)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (09fcfa66-9f18-4451-8876-b5d709a9ca4e)
+22:00:32 long: Job OK (09fcfa66-9f18-4451-8876-b5d709a9ca4e)
+22:00:32 Result is kept for 500 seconds
+22:00:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (2d93234f-2696-4359-bbfd-97db89359a6f)
+22:00:33 long: Job OK (2d93234f-2696-4359-bbfd-97db89359a6f)
+22:00:33 Result is kept for 500 seconds
+22:00:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (e1371def-f154-4d8b-84c6-7ceffe0f0c37)
+22:00:33 long: Job OK (e1371def-f154-4d8b-84c6-7ceffe0f0c37)
+22:00:33 Result is kept for 500 seconds
+22:00:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (6e4d82e1-ec49-478d-91bd-6023f3565413)
+22:00:34 long: Job OK (6e4d82e1-ec49-478d-91bd-6023f3565413)
+22:00:34 Result is kept for 500 seconds
+22:00:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (302d6183-0af0-4c68-8dff-e028dca2626a)
+22:00:34 long: Job OK (302d6183-0af0-4c68-8dff-e028dca2626a)
+22:00:34 Result is kept for 500 seconds
+22:00:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.weekly_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4077a6c3-5b01-490f-96b9-4754a658640b)
+22:00:34 long: Job OK (4077a6c3-5b01-490f-96b9-4754a658640b)
+22:00:34 Result is kept for 500 seconds
+22:00:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (987184f6-7398-44a9-857a-247d35085a47)
+22:00:34 long: Job OK (987184f6-7398-44a9-857a-247d35085a47)
+22:00:34 Result is kept for 500 seconds
+22:00:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_weekly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (76ef4fe1-5d36-4f12-b082-d5e6c5227f7e)
+22:00:35 long: Job OK (76ef4fe1-5d36-4f12-b082-d5e6c5227f7e)
+22:00:35 Result is kept for 500 seconds
+22:00:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.route_history.route_history.flush_old_rou..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (6784b133-7815-4993-8503-ed6d20b94f46)
+22:00:35 long: Job OK (6784b133-7815-4993-8503-ed6d20b94f46)
+22:00:35 Result is kept for 500 seconds
+22:00:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (fea82a90-d127-46f8-b441-04c0bdb145d5)
+22:00:35 long: Job OK (fea82a90-d127-46f8-b441-04c0bdb145d5)
+22:00:35 Result is kept for 500 seconds
+22:00:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (3bcb8009-9c18-4a45-ac61-af505aa10b7d)
+22:00:36 long: Job OK (3bcb8009-9c18-4a45-ac61-af505aa10b7d)
+22:00:36 Result is kept for 500 seconds
+22:00:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (005e1179-0537-4665-b2cb-caf202dca30c)
+22:00:36 long: Job OK (005e1179-0537-4665-b2cb-caf202dca30c)
+22:00:36 Result is kept for 500 seconds
+22:00:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (ff32d0a1-93e6-4da3-addd-8f7516d89e25)
+22:00:36 long: Job OK (ff32d0a1-93e6-4da3-addd-8f7516d89e25)
+22:00:36 Result is kept for 500 seconds
+22:00:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (bac4c692-1c8a-4815-a3b2-1f175c9198ee)
+22:00:37 long: Job OK (bac4c692-1c8a-4815-a3b2-1f175c9198ee)
+22:00:37 Result is kept for 500 seconds
+22:00:37 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f54ac937-d91f-468f-a652-4722a4c82e2b)
+22:00:37 long: Job OK (f54ac937-d91f-468f-a652-4722a4c82e2b)
+22:00:37 Result is kept for 500 seconds
+22:14:07 Cleaning registries for queue: long
+22:41:08 Cleaning registries for queue: long
+23:08:08 Cleaning registries for queue: long
+23:35:09 Cleaning registries for queue: long
+00:02:09 Cleaning registries for queue: long
+00:29:09 Cleaning registries for queue: long
+00:56:10 Cleaning registries for queue: long
+01:23:10 Cleaning registries for queue: long
+01:50:10 Cleaning registries for queue: long
+02:17:11 Cleaning registries for queue: long
+02:44:11 Cleaning registries for queue: long
+03:11:11 Cleaning registries for queue: long
+03:38:12 Cleaning registries for queue: long
+04:05:12 Cleaning registries for queue: long
+04:32:13 Cleaning registries for queue: long
+04:59:13 Cleaning registries for queue: long
+05:26:13 Cleaning registries for queue: long
+05:53:14 Cleaning registries for queue: long
+06:20:14 Cleaning registries for queue: long
+06:47:14 Cleaning registries for queue: long
+07:14:15 Cleaning registries for queue: long
+07:41:15 Cleaning registries for queue: long
+08:08:16 Cleaning registries for queue: long
+08:35:16 Cleaning registries for queue: long
+09:02:16 Cleaning registries for queue: long
+09:29:17 Cleaning registries for queue: long
+09:56:17 Cleaning registries for queue: long
+10:23:17 Cleaning registries for queue: long
+10:50:18 Cleaning registries for queue: long
+11:17:18 Cleaning registries for queue: long
+11:44:19 Cleaning registries for queue: long
+12:11:19 Cleaning registries for queue: long
+12:38:20 Cleaning registries for queue: long
+13:05:20 Cleaning registries for queue: long
+13:32:20 Cleaning registries for queue: long
+13:59:21 Cleaning registries for queue: long
+14:26:21 Cleaning registries for queue: long
+14:53:21 Cleaning registries for queue: long
+15:20:22 Cleaning registries for queue: long
+15:47:22 Cleaning registries for queue: long
+16:14:22 Cleaning registries for queue: long
+16:41:23 Cleaning registries for queue: long
+17:08:23 Cleaning registries for queue: long
+17:35:23 Cleaning registries for queue: long
+18:02:24 Cleaning registries for queue: long
+18:29:24 Cleaning registries for queue: long
+18:56:24 Cleaning registries for queue: long
+19:23:25 Cleaning registries for queue: long
+19:50:25 Cleaning registries for queue: long
+20:17:25 Cleaning registries for queue: long
+20:44:26 Cleaning registries for queue: long
+21:11:26 Cleaning registries for queue: long
+21:38:26 Cleaning registries for queue: long
+21:59:54 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.weekly_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (c3b83906-4af9-4454-9217-0fb9a9007d2c)
+21:59:55 long: Job OK (c3b83906-4af9-4454-9217-0fb9a9007d2c)
+21:59:55 Result is kept for 500 seconds
+21:59:55 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (808d1085-5585-4d8d-822e-7f7bd498f944)
+21:59:55 long: Job OK (808d1085-5585-4d8d-822e-7f7bd498f944)
+21:59:55 Result is kept for 500 seconds
+21:59:55 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_weekly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (2cc45611-7ab5-4d77-993e-f23b63437273)
+21:59:55 long: Job OK (2cc45611-7ab5-4d77-993e-f23b63437273)
+21:59:55 Result is kept for 500 seconds
+21:59:55 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.route_history.route_history.flush_old_rou..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (22ad0649-8c24-499a-8580-d196845ade13)
+21:59:56 long: Job OK (22ad0649-8c24-499a-8580-d196845ade13)
+21:59:56 Result is kept for 500 seconds
+21:59:56 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (6ae2bf32-eb8d-4080-9f83-d87af78d5c78)
+21:59:56 long: Job OK (6ae2bf32-eb8d-4080-9f83-d87af78d5c78)
+21:59:56 Result is kept for 500 seconds
+21:59:56 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (f3b22493-3b32-465c-a7d7-c99dbe9ab490)
+21:59:56 long: Job OK (f3b22493-3b32-465c-a7d7-c99dbe9ab490)
+21:59:56 Result is kept for 500 seconds
+21:59:56 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (3f31d2cf-73bd-470f-8c63-33f7db0adbff)
+21:59:57 long: Job OK (3f31d2cf-73bd-470f-8c63-33f7db0adbff)
+21:59:57 Result is kept for 500 seconds
+21:59:57 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (4f6f940a-241a-4288-90cc-6e0d3ecc505d)
+21:59:57 long: Job OK (4f6f940a-241a-4288-90cc-6e0d3ecc505d)
+21:59:57 Result is kept for 500 seconds
+21:59:57 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (85d0be5d-6f73-4a90-9ed3-3fe3e63d7cef)
+21:59:57 long: Job OK (85d0be5d-6f73-4a90-9ed3-3fe3e63d7cef)
+21:59:57 Result is kept for 500 seconds
+21:59:57 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (8d27aed0-3b4e-4403-b367-fb33c2033a7b)
+21:59:58 long: Job OK (8d27aed0-3b4e-4403-b367-fb33c2033a7b)
+21:59:58 Result is kept for 500 seconds
+22:06:43 Cleaning registries for queue: long
+22:33:43 Cleaning registries for queue: long
+23:00:44 Cleaning registries for queue: long
+23:27:44 Cleaning registries for queue: long
+23:54:44 Cleaning registries for queue: long
+00:21:45 Cleaning registries for queue: long
+00:48:45 Cleaning registries for queue: long
+01:15:45 Cleaning registries for queue: long
+01:42:46 Cleaning registries for queue: long
+02:09:46 Cleaning registries for queue: long
+02:36:47 Cleaning registries for queue: long
+03:03:47 Cleaning registries for queue: long
+03:30:47 Cleaning registries for queue: long
+03:57:48 Cleaning registries for queue: long
+04:24:48 Cleaning registries for queue: long
+04:51:49 Cleaning registries for queue: long
+05:18:49 Cleaning registries for queue: long
+05:45:49 Cleaning registries for queue: long
+06:12:50 Cleaning registries for queue: long
+06:39:50 Cleaning registries for queue: long
+07:06:50 Cleaning registries for queue: long
+07:33:51 Cleaning registries for queue: long
+08:00:51 Cleaning registries for queue: long
+08:27:51 Cleaning registries for queue: long
+08:54:52 Cleaning registries for queue: long
+09:21:52 Cleaning registries for queue: long
+09:48:53 Cleaning registries for queue: long
+10:15:53 Cleaning registries for queue: long
+10:42:53 Cleaning registries for queue: long
+11:09:54 Cleaning registries for queue: long
+11:36:54 Cleaning registries for queue: long
+12:03:54 Cleaning registries for queue: long
+12:16:14 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (5573a03d-aa56-49d0-8c4e-4c77afadd2df)
+12:16:15 long: Job OK (5573a03d-aa56-49d0-8c4e-4c77afadd2df)
+12:16:15 Result is kept for 500 seconds
+12:16:15 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_interest_accrual.loan_in..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (f2bc27aa-4c64-4654-a22d-02058aff95a7)
+12:16:15 long: Job OK (f2bc27aa-4c64-4654-a22d-02058aff95a7)
+12:16:15 Result is kept for 500 seconds
+12:16:15 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.loan_security_shortfall.loan_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (070344a3-8c6a-48b4-bf8d-2e3f9c217bcb)
+12:16:16 long: Job OK (070344a3-8c6a-48b4-bf8d-2e3f9c217bcb)
+12:16:16 Result is kept for 500 seconds
+12:16:16 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (ff5846a3-d5f1-4498-bdc7-f1fb1d91f3c4)
+12:16:16 long: Job OK (ff5846a3-d5f1-4498-bdc7-f1fb1d91f3c4)
+12:16:16 Result is kept for 500 seconds
+12:16:16 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (6551ce93-2b69-43d4-9ec1-d848f1b86cc3)
+12:16:17 long: Job OK (6551ce93-2b69-43d4-9ec1-d848f1b86cc3)
+12:16:17 Result is kept for 500 seconds
+12:16:17 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (69c41e23-be74-4f04-a2e2-f8a8ce5b2b31)
+12:16:17 long: Job OK (69c41e23-be74-4f04-a2e2-f8a8ce5b2b31)
+12:16:17 Result is kept for 500 seconds
+12:16:17 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (ab0bf7c2-16d4-4bbb-97e0-359c81cadca1)
+12:16:17 long: Job OK (ab0bf7c2-16d4-4bbb-97e0-359c81cadca1)
+12:16:17 Result is kept for 500 seconds
+12:16:17 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (127b37ca-b05d-4449-bad8-4f61c999269a)
+12:16:18 long: Job OK (127b37ca-b05d-4449-bad8-4f61c999269a)
+12:16:18 Result is kept for 500 seconds
+12:16:18 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (78ec73fa-d217-4e8b-81ac-fbe7bbdbd04e)
+12:16:18 long: Job OK (78ec73fa-d217-4e8b-81ac-fbe7bbdbd04e)
+12:16:18 Result is kept for 500 seconds
+12:16:18 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (2c9c35b3-54b7-4362-b660-9e4d810a6519)
+12:16:19 long: Job OK (2c9c35b3-54b7-4362-b660-9e4d810a6519)
+12:16:19 Result is kept for 500 seconds
+12:16:19 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance2.branderaa.net', user='Administrator') (4f0d9f74-dc0e-4102-b406-8b81d854eb76)
+12:16:19 long: Job OK (4f0d9f74-dc0e-4102-b406-8b81d854eb76)
+12:16:19 Result is kept for 500 seconds
+12:29:49 Cleaning registries for queue: long
+12:56:49 Cleaning registries for queue: long
+13:23:50 Cleaning registries for queue: long
+13:50:50 Cleaning registries for queue: long
+14:17:51 Cleaning registries for queue: long
+14:44:51 Cleaning registries for queue: long
+15:11:51 Cleaning registries for queue: long
+15:38:52 Cleaning registries for queue: long
+16:05:52 Cleaning registries for queue: long
+16:32:52 Cleaning registries for queue: long
+16:59:53 Cleaning registries for queue: long
+17:26:53 Cleaning registries for queue: long
+17:53:54 Cleaning registries for queue: long
+18:20:54 Cleaning registries for queue: long
+18:47:54 Cleaning registries for queue: long
+19:14:55 Cleaning registries for queue: long
+19:41:55 Cleaning registries for queue: long
+20:08:56 Cleaning registries for queue: long
+20:35:56 Cleaning registries for queue: long
+21:02:56 Cleaning registries for queue: long
+21:29:57 Cleaning registries for queue: long
+21:56:57 Cleaning registries for queue: long
+22:00:52 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (087d3ecc-f1a5-4996-bb36-d44a9db17321)
+22:00:53 long: Job OK (087d3ecc-f1a5-4996-bb36-d44a9db17321)
+22:00:53 Result is kept for 500 seconds
+22:00:53 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (daa3ad0c-dbd7-4d17-affa-9f0d0609b78f)
+22:00:53 long: Job OK (daa3ad0c-dbd7-4d17-affa-9f0d0609b78f)
+22:00:53 Result is kept for 500 seconds
+22:00:53 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (6d82fd61-ffee-4a4f-b6f0-2a1c36510afa)
+22:00:54 long: Job OK (6d82fd61-ffee-4a4f-b6f0-2a1c36510afa)
+22:00:54 Result is kept for 500 seconds
+22:00:54 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='finance.branderaa.net', user='Administrator') (980188b9-059d-47f0-99e4-8c02e4bb0386)
+22:00:54 long: Job OK (980188b9-059d-47f0-99e4-8c02e4bb0386)
+22:00:54 Result is kept for 500 seconds

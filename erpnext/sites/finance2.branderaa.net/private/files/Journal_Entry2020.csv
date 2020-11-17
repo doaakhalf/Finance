@@ -1,0 +1,982 @@
+Entry Type,Series,Company,Posting Date,,,Account (Accounting Entries),Credit (Accounting Entries),Debit (Accounting Entries),Cost Center (Accounting Entries),Party Type (Accounting Entries),Party (Accounting Entries)
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-01-01,1010102,Petty Cash,1010102 - Petty Cash - B,"7,501.20 ",0.00 ,Main - B,Customer,Guest
+,,,,2010105,Al Ghdeer al Naqueea,2010105 - Al Ghdeer al Naqueea - B,0.00 ,"7,501.20 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-01-14,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,710.00 ,0.00 ,Main - B,Customer,Guest
+,,,,5010201,Delivery Cost,5010201 - Delivery Cost - B,0.00 ,710.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-01-21,2010106,Cigalah Group,2010106 - Cigalah Group - B,160.51 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,160.51 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-01-28,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,2.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.51 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.86 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.52 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.72 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.74 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.84 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.86 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.80 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.72 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.76 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.52 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,42.24 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.96 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.53 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,2.69 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,22.66 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,201.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,35.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,844.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,179.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,128.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,130.56 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,53.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,182.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,453.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,32.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,48.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,330.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,60.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,257.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,118.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,214.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,201.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,74.88 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,236.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,257.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,102.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,96.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,374.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"6,074.88 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,201.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,35.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,844.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,179.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,128.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,130.56 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,53.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,182.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,453.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,32.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,48.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,330.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,60.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,257.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,118.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,214.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,201.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,74.88 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"5,785.60 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,236.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,257.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,102.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,96.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,374.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.39 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.79 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.84 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.39 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.15 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.96 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.17 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.43 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.05 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.66 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.46 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.38 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.66 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.39 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.33 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,2.88 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.98 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,27.52 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,133.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,66.56 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,57.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,39.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,115.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,236.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,103.04 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,339.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,143.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,128.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,360.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,133.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,129.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,65.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,65.28 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"3,456.10 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,27.52 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,133.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,66.56 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,57.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,39.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,115.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,236.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,103.04 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,339.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,143.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,128.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,360.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,133.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,129.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,65.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"3,291.52 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,65.28 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.45 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,2.56 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,29.76 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.94 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.58 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.89 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.62 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.41 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.83 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.78 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.24 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.09 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.04 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,212.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,188.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,176.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,135.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,204.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,101.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,140.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,168.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,51.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,595.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,78.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,331.52 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,117.76 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"2,862.72 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,212.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,188.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"2,726.40 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,176.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,135.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,204.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,101.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,140.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,168.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,51.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,595.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,78.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,331.52 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,117.76 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.21 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.13 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.55 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,22.27 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.38 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.43 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.94 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.23 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.05 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.62 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.02 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,28.61 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.56 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.90 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,26.37 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.01 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.36 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,24.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.98 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.01 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.13 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,23.62 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,211.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,177.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,527.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,307.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,199.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,322.56 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,472.32 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,284.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,322.56 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,311.04 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,445.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,167.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,368.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,318.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,304.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,360.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,212.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,340.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,572.16 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"9,937.54 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,211.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,177.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,527.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,307.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"9,464.32 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,199.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,322.56 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,472.32 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,284.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,322.56 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,311.04 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,445.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,167.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,368.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,318.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,304.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,360.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,212.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,495.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,340.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,572.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.63 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.63 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.17 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.86 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.87 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.90 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.75 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.18 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.97 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.70 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.58 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,203.52 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,399.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,33.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,140.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,71.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,112.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,32.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,303.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,37.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,157.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,97.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,215.04 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"1,895.71 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,203.52 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,399.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,33.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,140.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,71.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"1,805.44 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,112.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,32.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,303.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,37.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,157.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,97.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,215.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,33.47 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.20 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.82 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.50 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.20 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.47 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,350.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,304.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,349.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,364.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,669.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,304.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,326.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,243.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,136.32 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,243.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,182.40 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"3,646.94 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,350.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,304.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,349.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,364.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,669.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,304.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"3,473.28 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,326.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,243.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,136.32 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,243.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,182.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.90 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,36.48 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,21.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.01 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,43.52 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.34 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,35.71 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,20.35 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,42.24 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,41.28 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.29 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.64 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.31 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.54 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,37.89 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,825.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,281.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,245.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,241.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,266.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,350.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,757.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,177.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,729.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,86.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,220.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,870.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,286.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,714.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,407.04 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,844.80 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"8,297.18 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,825.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,281.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,245.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,241.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,266.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,350.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,757.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,177.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,729.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,86.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,220.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,870.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"7,902.08 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,286.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,714.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,407.04 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,844.80 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.39 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.72 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.25 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.64 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.06 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.51 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.79 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.70 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.52 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.56 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,26.88 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,26.11 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.44 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.25 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.11 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,27.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.88 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.26 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,522.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,348.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,202.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,540.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,278.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,281.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,217.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,134.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,184.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,261.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,175.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,330.24 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,355.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,174.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,175.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,211.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,537.60 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"6,215.33 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,522.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,348.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,202.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,540.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,278.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,281.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,217.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,147.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,134.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,184.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,261.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,175.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,330.24 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,355.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,174.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"5,919.36 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,175.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,70.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,211.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,537.60 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.67 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.19 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.25 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.72 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.64 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.67 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.00 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.90 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,21.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.98 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.49 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.25 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.97 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.97 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.46 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.42 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,199.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,149.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,382.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,159.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,399.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,209.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,253.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,243.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,294.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,253.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,240.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,238.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,278.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"5,598.43 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,199.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"5,331.84 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,149.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,382.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,159.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,399.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,209.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,253.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,243.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,264.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,294.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,172.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,253.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,240.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,238.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,278.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,222.72 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.42 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.54 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.42 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.97 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.77 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,27.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.09 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.22 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.01 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.62 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,27.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.19 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,21.12 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.74 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,382.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,72.32 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,542.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,163.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,94.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,190.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,102.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,319.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,95.36 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,220.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,542.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,341.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,184.32 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"4,945.92 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,382.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,380.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,72.32 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"4,710.40 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,542.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,163.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,422.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,94.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,190.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,228.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,102.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,319.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,95.36 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,220.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,542.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,341.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,184.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,15.84 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,22.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,21.70 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.86 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.82 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.89 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,10.85 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,13.34 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.92 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.87 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.58 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.58 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,17.76 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.81 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.22 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.63 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.81 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.10 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,23.81 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.62 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,11.78 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.54 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.68 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,112.64 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,236.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,81.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,476.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,132.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,235.52 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,250.88 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,153.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,192.00 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,316.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,441.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,433.92 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,197.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,276.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,37.76 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,216.96 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,266.88 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,157.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,71.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,171.52 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,355.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,225.28 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,236.16 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,62.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,184.32 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,142.08 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"6,754.94 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,112.64 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,236.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,81.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,476.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,132.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,235.52 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,250.88 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,288.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,153.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"6,433.28 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,192.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,316.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,441.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,83.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,433.92 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,197.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,276.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,37.76 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,216.96 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,266.88 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,198.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,157.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,71.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,171.52 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,355.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,225.28 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,236.16 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,62.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,184.32 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,142.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,56.32 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,6.27 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,16.38 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,48.64 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,51.07 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,18.14 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,48.64 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.99 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,32.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,3.84 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.74 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.70 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,14.08 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,23.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,55.04 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,40.96 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,7.68 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,4.22 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,19.07 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,47.36 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,25.47 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.26 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,8.32 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,460.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,"1,100.80 ",Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,819.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,153.60 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,84.48 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,381.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,947.20 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,509.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,"1,126.40 ",Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,125.44 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,327.68 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,972.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,"1,021.44 ",Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,362.88 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,972.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,99.84 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,645.12 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,76.80 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,94.72 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,94.08 ,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0.00 ,281.60 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"11,539.58 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,460.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,100.80 ",Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,819.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,153.60 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,84.48 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,381.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,947.20 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,509.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,165.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,166.40 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,126.40 ",Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,125.44 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,327.68 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,"10,990.08 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,972.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,021.44 ",Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,362.88 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,972.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,99.84 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,645.12 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,76.80 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,94.72 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,94.08 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,281.60 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-01-31,1010102,Petty Cash,1010102 - Petty Cash - B,710.00 ,0.00 ,Main - B,Customer,Guest
+,,,,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,0.00 ,710.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-02-04,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,50.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,50.00 ,0.00 ,Main - B,Customer,Guest
+,,,,2010110,Noura Pharmacy,2010110 - Noura Pharmacy - B,50.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,50.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-03-22,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,"2,114.00 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"2,114.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-03-31,1010102,Petty Cash,1010102 - Petty Cash - B,592.83 ,0.00 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,115.09 ,Main - B,Customer,Guest
+,,,,2010109,Rawaj Global trading Company (Global Noura),2010109 - Rawaj Global trading Company (Global Noura) - B,"2,416.84 ",0.00 ,Main - B,Customer,Guest
+,,,,2010110,Noura Pharmacy,2010110 - Noura Pharmacy - B,0.00 ,592.83 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"2,301.75 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,"1,185.64 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"24,898.44 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"23,712.80 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,28.23 ,Main - B,Customer,Guest
+,,,,2010110,Noura Pharmacy,2010110 - Noura Pharmacy - B,592.83 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,564.60 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-01,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0.00 ,"19,929.00 ",Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,949.00 ,0.00 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"18,980.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-08,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"9,450.00 ",Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,"9,450.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-09,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,"5,470.50 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"5,470.50 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-13,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"7,677.00 ",Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"11,400.00 ",Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,"7,677.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,"11,400.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"7,371.00 ",Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,"7,371.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-14,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"35,600.00 ",0.00 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"9,937.54 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"1,895.71 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"3,646.94 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"6,215.33 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"6,074.88 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"1,510.78 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"3,456.10 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"2,862.72 ",Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,25.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1.25 ,0.00 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,1.25 ,Main - B,Customer,Guest
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B,0.00 ,25.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-16,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,20.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,20.00 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-18,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,20.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,20.00 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-19,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,311.75 ,0.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,311.75 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,"4,250.00 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"4,250.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-21,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,515.20 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,"2,417.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010404,Other Receivable,1010404 - Other Receivable - B,0.00 ,0.16 ,Main - B,Customer,Guest
+,,,,2010109,Rawaj Global trading Company (Global Noura),2010109 - Rawaj Global trading Company (Global Noura) - B,0.00 ,"2,416.84 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,515.20 ,0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,515.20 ,0.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,515.20 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,550.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,"2,100.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,"2,650.00 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-22,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,195.30 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,195.30 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-28,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,20.00 ,Main - B,Customer,Guest
+,,,,2010108,PAYFORT Online Payment,2010108 - PAYFORT Online Payment - B,420.00 ,0.00 ,Main - B,Customer,Guest
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B,0.00 ,400.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"35,000.00 ",Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,"35,000.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,400.00 ,0.00 ,Main - B,Customer,Guest
+,,,,2010108,PAYFORT Online Payment,2010108 - PAYFORT Online Payment - B,0.00 ,400.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-29,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"35,785.78 ",0.00 ,Main - B,Customer,Guest
+,,,,1010404,Other Receivable,1010404 - Other Receivable - B,0.00 ,0.00 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"6,786.40 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"5,598.43 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"4,945.92 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"6,754.94 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,"11,539.58 ",Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,0.00 ,160.51 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"1,000.00 ",Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,"1,000.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,20.00 ,0.00 ,Main - B,Customer,Guest
+,,,,2010108,PAYFORT Online Payment,2010108 - PAYFORT Online Payment - B,0.00 ,20.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-04-30,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,159.25 ,Main - B,Customer,Guest
+,,,,2010109,Rawaj Global trading Company (Global Noura),2010109 - Rawaj Global trading Company (Global Noura) - B,"3,344.25 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"3,185.00 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,283.46 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"5,952.58 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"5,669.12 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,259.62 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"5,451.94 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"5,192.32 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,215.65 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"4,528.61 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"4,312.96 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,194.55 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"4,085.59 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"3,891.04 ",Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,426.30 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,304.13 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"6,386.69 ",0.00 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,426.30 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"6,082.56 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,48.38 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"1,016.06 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,967.68 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,5.12 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,107.52 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,102.40 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,184.00 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"3,864.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"3,680.00 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,12.96 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,272.16 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,259.20 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,9.41 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,197.57 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,188.16 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,58.82 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"1,235.14 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,176.32 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,136.54 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"2,867.42 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"2,730.88 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,138.21 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"2,902.37 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"2,764.16 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,40.19 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,844.03 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,803.84 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,23.49 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,493.25 ,0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,469.76 ,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,84.58 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"1,776.10 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,691.52 ",Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,67.97 ,Main - B,Customer,Guest
+,,,,2010106,Cigalah Group,2010106 - Cigalah Group - B,"1,427.33 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"1,359.36 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-01,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,782.75 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,782.75 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-03,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,"1,560.00 ",0.00 ,Main - B,Customer,Guest
+,,,,5010201,Delivery Cost,5010201 - Delivery Cost - B,0.00 ,"1,560.00 ",Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"1,296.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,"1,296.00 ",Main - B,Customer,Guest
+,,,,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,710.00 ,0.00 ,Main - B,Customer,Guest
+,,,,5010201,Delivery Cost,5010201 - Delivery Cost - B,0.00 ,710.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,254.10 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,254.10 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-04,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,710.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"3,108.00 ",Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,"3,108.00 ",0.00 ,Main - B,Customer,Guest
+,,,,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,0.00 ,710.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"1,560.00 ",0.00 ,Main - B,Customer,Guest
+,,,,2010109,Rawaj Global trading Company (Global Noura),2010109 - Rawaj Global trading Company (Global Noura) - B,0.00 ,"1,560.00 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-08,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,226.80 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,226.80 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-10,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,500.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,500.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"1,560.00 ",0.00 ,Main - B,Customer,Guest
+,,,,2010107,Shhnaty Co.,2010107 - Shhnaty Co. - B,0.00 ,"1,560.00 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-14,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,102.90 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,102.90 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-18,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,449.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,449.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,"2,517.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,"2,517.00 ",Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,184.70 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,184.70 ,0.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,803.00 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,803.00 ,0.00 ,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0.00 ,"1,704.00 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"1,704.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-26,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,417.59 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,417.59 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-29,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,317.70 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,317.70 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-05-31,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0.00 ,118.80 ,Main - B,Customer,Guest
+,,,,2010109,Rawaj Global trading Company (Global Noura),2010109 - Rawaj Global trading Company (Global Noura) - B,"2,494.80 ",0.00 ,Main - B,Customer,Guest
+,,,,1010501,Stock on Hand,1010501 - Stock on Hand - B,0.00 ,"2,376.00 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-01,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,789.60 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,789.60 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-02,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,285.60 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,285.60 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-03,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"2,100.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,"2,100.00 ",Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-05,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,117.60 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,117.60 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-06,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,129.80 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,129.80 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-08,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,231.20 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,231.20 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-11,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,420.00 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,420.00 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-13,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,611.10 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,611.10 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-14,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,303.95 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,303.95 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-15,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,131.90 ,Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,131.90 ,0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-19,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.00 ,"2,587.37 ",Main - B,Customer,Guest
+,,,,4010103,Revenue - Se7rek,4010103 - Revenue - Se7rek - B,"2,587.37 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-30,5030106,Management Fees,5030106 - Management Fees - B,0.00 ,"90,000.00 ",Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,"90,000.00 ",0.00 ,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2020-06-20,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,"4,243.00 ",0.00 ,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0.00 ,"4,243.00 ",Main - B,Customer,Guest

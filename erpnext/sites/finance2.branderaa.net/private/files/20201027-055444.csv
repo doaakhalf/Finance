@@ -1,0 +1,2 @@
+"Item Code ","Description ",Disabled,"Item Name","	Item Group","	Default Unit of Measure","	Opening Stock","Maintain Stock",Brand,"	Valuation Rate","Standard Selling Rate","Valuation Method","Minimum Order Qty	","Is Purchase Item","Safety Stock","	Is Sales Item","ID (Item Defaults)","Default Warehouse (Item Defaults)	","Default Price List (Item Defaults)","Company (Item Defaults)"
+61092072,,0,test1,cat2,Unit,0,1,HP,4,4,FIFO,1,1,3,1,1,"Stores - B","Standard Buying",Branderaa

@@ -1,0 +1,999 @@
+2020-10-19 11:23:54,593 ERROR frappe New Exception collected with id: 2020-10-19 11:23:54.524501-127.0.0.1-182
+Site: finance.branderaa.net
+Form Dict: {'cmd': 'frappe.core.doctype.user.user.sign_up', 'email': 'khalf_doaa@yahoo.com', 'redirect_to': '', 'full_name': 'doaa'}
+2020-10-19 23:50:53,860 ERROR frappe New Exception collected with id: 2020-10-19 23:50:53.756815-172.68.94.70-3d0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-20 00:01:31,284 ERROR frappe New Exception collected with id: 2020-10-20 00:01:31.283305-172.68.94.16-f2f
+Site: finance2.branderaa.net
+Form Dict: {'data': ' [\n        {"item_code": "001",\n         "item_group": "xyz",\n         "item_name": "test",\n         "default_warehouse":"warehouse1"\n         }]'}
+2020-10-20 00:03:44,486 ERROR frappe New Exception collected with id: 2020-10-20 00:03:44.399374-172.68.94.16-61b
+Site: finance2.branderaa.net
+Form Dict: {'item_code': '1234', 'item_group': 'xyz', 'item_name': 'test', 'default_warehouse': 'warehouse1'}
+2020-10-20 00:05:42,542 ERROR frappe New Exception collected with id: 2020-10-20 00:05:42.539640-172.68.94.16-59b
+Site: finance2.branderaa.net
+Form Dict: {'item_code': '1234', 'item_group': 'cat1', 'item_name': 'test'}
+2020-10-20 00:07:46,721 ERROR frappe New Exception collected with id: 2020-10-20 00:07:46.719185-172.68.94.16-b5d
+Site: finance2.branderaa.net
+Form Dict: {'item_code': '1234', 'item_group': 'cat1', 'item_name': 'test'}
+2020-10-20 00:07:52,496 ERROR frappe New Exception collected with id: 2020-10-20 00:07:52.493904-172.68.94.16-126
+Site: finance2.branderaa.net
+Form Dict: {'item_code': '1234345', 'item_group': 'cat1', 'item_name': 'test'}
+2020-10-20 00:12:15,130 ERROR frappe New Exception collected with id: 2020-10-20 00:12:15.128243-172.68.94.16-c3b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-20 00:14:20,114 ERROR frappe New Exception collected with id: 2020-10-20 00:14:20.111402-172.68.94.16-7ca
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-20 00:14:31,100 ERROR frappe New Exception collected with id: 2020-10-20 00:14:31.097648-172.68.94.16-73d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-20 01:17:33,909 ERROR frappe New Exception collected with id: 2020-10-20 01:17:33.907399-162.158.22.34-65a
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"1234345",\n    "item_group":"cat1",\n    "item_name":"test2",\n"default_warehouse":"warehouse1"\n}'}
+2020-10-20 11:47:33,279 ERROR frappe New Exception collected with id: 2020-10-20 11:47:33.277224-162.158.22.86-24b
+Site: finance2.branderaa.net
+Form Dict: {'data[item_code]': '12343456', 'data[item_group]': 'cat1', 'data[item_name]': 'test2'}
+2020-10-20 13:58:39,492 ERROR frappe New Exception collected with id: 2020-10-20 13:58:39.488885-188.114.103.229-ec6
+Site: finance2.branderaa.net
+Form Dict: {'limit_page_length': 20}
+2020-10-20 14:10:59,509 ERROR frappe New Exception collected with id: 2020-10-20 14:10:59.507109-108.162.229.46-4cb
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"name":hr}'}
+2020-10-20 14:35:49,430 ERROR frappe New Exception collected with id: 2020-10-20 14:35:49.426238-188.114.102.18-e8a
+Site: finance2.branderaa.net
+Form Dict: {'data': '{\n                "is_private":"NaN",\n                "folder":"Home/Attachments",\n                "file_url":"https://branderaa.net/uploads/brands/1601654755.0019.png",\n                "doctype": "Brand"\n                "docname":"test4"}', 'cmd': 'upload_file'}
+2020-10-20 14:42:47,201 ERROR frappe New Exception collected with id: 2020-10-20 14:42:47.197434-108.162.229.47-f43
+Site: finance2.branderaa.net
+Form Dict: {'data': '{\n                "is_private":"NaN",\n                "folder":"Home/Attachments",\n                "file_url":"https://branderaa.net/uploads/brands/1601654755.0019.png",\n                "doctype": "Brand",\n                "docname":"test5"}', 'cmd': 'upload_file'}
+2020-10-20 14:49:50,197 ERROR frappe New Exception collected with id: 2020-10-20 14:49:50.193086-188.114.102.18-6bf
+Site: finance2.branderaa.net
+Form Dict: {'data': '{ "is_private":"NaN","folder":"Home/Attachments","file_url":"https://branderaa.net/uploads/brands/1601654755.0019.png"\n,"doctype": "Brand", "docname":"test5"}', 'cmd': 'upload_file'}
+2020-10-20 14:50:48,018 ERROR frappe New Exception collected with id: 2020-10-20 14:50:48.014189-188.114.102.18-582
+Site: finance2.branderaa.net
+Form Dict: {'data': '{ "folder":"Home/Attachments","file_url":"https://branderaa.net/uploads/brands/1601654755.0019.png"\n,"doctype": "Brand", "docname":"test5"}', 'cmd': 'upload_file'}
+2020-10-20 15:04:04,000 ERROR frappe New Exception collected with id: 2020-10-20 15:04:03.995794-141.101.69.85-f78
+Site: finance2.branderaa.net
+Form Dict: {'data': '{ "file_url":"https://branderaa.net/uploads/brands/1601654755.0019.png"\n,"dt": "Brand", "dn":"test5"}', 'cmd': 'upload_file'}
+2020-10-21 09:25:24,622 ERROR frappe New Exception collected with id: 2020-10-21 09:25:24.619798-172.68.94.136-c6c
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"12343456",\n    "item_group":"cat1",\n    "item_name":"test00",\n"uoms":"Unit"\n}'}
+2020-10-21 09:26:25,787 ERROR frappe New Exception collected with id: 2020-10-21 09:26:25.785493-172.68.94.136-ec7
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"12343456",\n    "item_group":"cat1",\n    "item_name":"test00",\n"uoms":[{"uom":"Unit"}]\n}'}
+2020-10-21 09:26:50,062 ERROR frappe New Exception collected with id: 2020-10-21 09:26:50.060479-172.68.94.136-c43
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"1239843456",\n    "item_group":"cat1",\n    "item_name":"testy00",\n"uoms":[{"uom":"Unit"}]\n}'}
+2020-10-21 09:28:56,924 ERROR frappe New Exception collected with id: 2020-10-21 09:28:56.922413-172.68.94.136-271
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"1239843456",\n    "item_group":"cat1",\n    "item_name":"testy00",\n"stock_uom":"Unit"\n}'}
+2020-10-21 09:29:40,476 ERROR frappe New Exception collected with id: 2020-10-21 09:29:40.474119-172.68.94.136-857
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"1239843456",\n    "item_group":"cat1",\n    "item_name":"testy00",\n    "stock_uom":"Nos"\n}'}
+2020-10-21 09:29:57,065 ERROR frappe New Exception collected with id: 2020-10-21 09:29:57.063715-172.68.94.136-79f
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"1239843456",\n    "item_group":"cat1",\n    "item_name":"testy00"\n   \n}'}
+2020-10-21 09:30:42,715 ERROR frappe New Exception collected with id: 2020-10-21 09:30:42.713478-172.68.94.136-c09
+Site: finance2.branderaa.net
+Form Dict: {'data': '\n"item_code":"034304",\n    "item_group":"cat2",\n    "item_name":"tlfd",\n    "stock_uom":"Nos"\n}'}
+2020-10-24 02:43:25,670 ERROR frappe New Exception collected with id: 2020-10-24 02:43:25.667106-188.114.103.229-5ba
+Site: finance2.branderaa.net
+Form Dict: {'limit_page_length': 20}
+2020-10-24 02:43:59,818 ERROR frappe New Exception collected with id: 2020-10-24 02:43:59.814525-188.114.103.229-7c2
+Site: finance2.branderaa.net
+Form Dict: {'limit_page_length': 20}
+2020-10-24 04:15:39,376 ERROR frappe New Exception collected with id: 2020-10-24 04:15:39.373440-162.158.23.105-809
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-24",\n                "posting_time": "10:15:39","items": [\n                            {"s_warehouse": "Stores - B",\n                             "t_warehouse": "warehouse1 - B",\n                             "item_code": "63920719",\n                            "item_name": "product1","qty": 4, "uom": "Unit"}\n                            ],docstatus:1}'}
+2020-10-24 04:16:52,484 ERROR frappe New Exception collected with id: 2020-10-24 04:16:52.482093-162.158.22.34-9ed
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-24",\n                "posting_time": "10:16:52","items": [\n                            {"s_warehouse": "Stores - B",\n                             "t_warehouse": "warehouse1 - B",\n                             "item_code": "63920719",\n                            "item_name": "product1","qty": 4, "uom": "Unit"}\n                            ],docstatus:1}'}
+2020-10-24 04:17:17,170 ERROR frappe New Exception collected with id: 2020-10-24 04:17:17.167732-188.114.102.54-ee6
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-24",\n                "posting_time": "10:17:16","items": [\n                            {"s_warehouse": "Stores - B",\n                             "t_warehouse": "warehouse1 - B",\n                             "item_code": "63920719",\n                            "item_name": "product1","qty": 4, "uom": "Unit"}\n                            ],docstatus:1}'}
+2020-10-25 01:07:27,132 ERROR frappe New Exception collected with id: 2020-10-25 01:07:27.130302-172.68.94.136-849
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date": "2020-10-24",\n        "posting_time": "4:04:21.965998",        "items": [\n{"s_warehouse": "Stores - B",\n                "t_warehouse": "warehouse1 - B",\n                "item_code": "63920719",\n                "item_name": "product1","qty": 2, "uom": "Unit"}],"run_method":"submit"}'}
+2020-10-25 01:19:43,596 ERROR frappe New Exception collected with id: 2020-10-25 01:19:43.592140-188.114.102.18-526
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:45,121 ERROR frappe New Exception collected with id: 2020-10-25 01:19:45.118833-188.114.102.18-dd9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:46,824 ERROR frappe New Exception collected with id: 2020-10-25 01:19:46.822081-188.114.102.18-b68
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:48,952 ERROR frappe New Exception collected with id: 2020-10-25 01:19:48.946394-188.114.102.18-0c8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:50,582 ERROR frappe New Exception collected with id: 2020-10-25 01:19:50.578968-188.114.102.18-3f2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:52,134 ERROR frappe New Exception collected with id: 2020-10-25 01:19:52.131821-188.114.102.18-e93
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:19:59,793 ERROR frappe New Exception collected with id: 2020-10-25 01:19:59.790939-188.114.102.18-5cf
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:01,229 ERROR frappe New Exception collected with id: 2020-10-25 01:20:01.226107-188.114.102.18-516
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:02,832 ERROR frappe New Exception collected with id: 2020-10-25 01:20:02.829248-188.114.102.19-584
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:03,904 ERROR frappe New Exception collected with id: 2020-10-25 01:20:03.901462-188.114.102.18-809
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:05,677 ERROR frappe New Exception collected with id: 2020-10-25 01:20:05.674598-188.114.102.18-c5c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:07,036 ERROR frappe New Exception collected with id: 2020-10-25 01:20:07.033592-188.114.102.18-d45
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:08,445 ERROR frappe New Exception collected with id: 2020-10-25 01:20:08.442921-188.114.102.18-a34
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:10,136 ERROR frappe New Exception collected with id: 2020-10-25 01:20:10.132862-188.114.102.18-855
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:11,518 ERROR frappe New Exception collected with id: 2020-10-25 01:20:11.513736-188.114.102.19-685
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:12,945 ERROR frappe New Exception collected with id: 2020-10-25 01:20:12.942964-188.114.102.18-4c9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:14,714 ERROR frappe New Exception collected with id: 2020-10-25 01:20:14.709808-188.114.102.18-35c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:15,780 ERROR frappe New Exception collected with id: 2020-10-25 01:20:15.775557-188.114.102.18-23b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:17,295 ERROR frappe New Exception collected with id: 2020-10-25 01:20:17.291681-188.114.102.18-1bc
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:18,719 ERROR frappe New Exception collected with id: 2020-10-25 01:20:18.716357-188.114.102.18-3f2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:20,100 ERROR frappe New Exception collected with id: 2020-10-25 01:20:20.095554-188.114.102.18-a8f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:21,176 ERROR frappe New Exception collected with id: 2020-10-25 01:20:21.172126-188.114.102.18-1f7
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:22,996 ERROR frappe New Exception collected with id: 2020-10-25 01:20:22.993211-188.114.102.18-4f1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:24,517 ERROR frappe New Exception collected with id: 2020-10-25 01:20:24.514142-188.114.102.18-578
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:26,248 ERROR frappe New Exception collected with id: 2020-10-25 01:20:26.245526-188.114.102.18-423
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:27,469 ERROR frappe New Exception collected with id: 2020-10-25 01:20:27.465213-188.114.102.18-7f4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:28,652 ERROR frappe New Exception collected with id: 2020-10-25 01:20:28.649177-188.114.102.18-b77
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:30,227 ERROR frappe New Exception collected with id: 2020-10-25 01:20:30.223352-188.114.102.18-c0a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:31,612 ERROR frappe New Exception collected with id: 2020-10-25 01:20:31.607333-188.114.102.18-c50
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:32,987 ERROR frappe New Exception collected with id: 2020-10-25 01:20:32.984504-188.114.102.18-5f9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:34,042 ERROR frappe New Exception collected with id: 2020-10-25 01:20:34.037443-188.114.102.18-aa9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:35,608 ERROR frappe New Exception collected with id: 2020-10-25 01:20:35.604279-188.114.102.18-299
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:36,971 ERROR frappe New Exception collected with id: 2020-10-25 01:20:36.968518-188.114.102.18-bac
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:38,161 ERROR frappe New Exception collected with id: 2020-10-25 01:20:38.156969-188.114.102.18-9ea
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:39,530 ERROR frappe New Exception collected with id: 2020-10-25 01:20:39.527048-188.114.102.18-578
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:40,702 ERROR frappe New Exception collected with id: 2020-10-25 01:20:40.699046-188.114.102.18-41a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:42,413 ERROR frappe New Exception collected with id: 2020-10-25 01:20:42.410973-188.114.102.18-3b0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:43,727 ERROR frappe New Exception collected with id: 2020-10-25 01:20:43.724089-188.114.102.18-97d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:45,280 ERROR frappe New Exception collected with id: 2020-10-25 01:20:45.277013-188.114.102.18-9cd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:46,489 ERROR frappe New Exception collected with id: 2020-10-25 01:20:46.486768-188.114.102.18-363
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:47,903 ERROR frappe New Exception collected with id: 2020-10-25 01:20:47.900876-188.114.102.18-ad0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:49,248 ERROR frappe New Exception collected with id: 2020-10-25 01:20:49.245000-188.114.102.18-66e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:20:50,456 ERROR frappe New Exception collected with id: 2020-10-25 01:20:50.453144-188.114.102.18-e66
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:51,519 ERROR frappe New Exception collected with id: 2020-10-25 01:27:51.516222-188.114.103.191-b18
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:52,995 ERROR frappe New Exception collected with id: 2020-10-25 01:27:52.992264-188.114.103.191-cb1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:54,662 ERROR frappe New Exception collected with id: 2020-10-25 01:27:54.658878-188.114.103.191-eeb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:55,946 ERROR frappe New Exception collected with id: 2020-10-25 01:27:55.943334-188.114.103.191-55d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:57,502 ERROR frappe New Exception collected with id: 2020-10-25 01:27:57.497073-188.114.103.191-a5d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:27:58,624 ERROR frappe New Exception collected with id: 2020-10-25 01:27:58.619454-188.114.103.191-f8f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:00,362 ERROR frappe New Exception collected with id: 2020-10-25 01:28:00.359178-188.114.103.191-832
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:01,486 ERROR frappe New Exception collected with id: 2020-10-25 01:28:01.483900-188.114.103.191-a8c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:02,866 ERROR frappe New Exception collected with id: 2020-10-25 01:28:02.863765-188.114.103.191-b2e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:04,385 ERROR frappe New Exception collected with id: 2020-10-25 01:28:04.380621-188.114.103.191-968
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:05,747 ERROR frappe New Exception collected with id: 2020-10-25 01:28:05.742694-188.114.103.191-8d2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:06,937 ERROR frappe New Exception collected with id: 2020-10-25 01:28:06.934864-188.114.103.191-ff9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:08,555 ERROR frappe New Exception collected with id: 2020-10-25 01:28:08.551113-188.114.103.191-65f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:09,803 ERROR frappe New Exception collected with id: 2020-10-25 01:28:09.800169-188.114.103.191-f3a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:11,260 ERROR frappe New Exception collected with id: 2020-10-25 01:28:11.257308-188.114.103.191-248
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:12,305 ERROR frappe New Exception collected with id: 2020-10-25 01:28:12.302256-188.114.103.191-ed6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:13,461 ERROR frappe New Exception collected with id: 2020-10-25 01:28:13.456466-188.114.103.191-00e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:15,043 ERROR frappe New Exception collected with id: 2020-10-25 01:28:15.038732-188.114.103.191-6cb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:16,248 ERROR frappe New Exception collected with id: 2020-10-25 01:28:16.244723-188.114.103.191-8a3
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:17,616 ERROR frappe New Exception collected with id: 2020-10-25 01:28:17.613051-188.114.103.191-af4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:18,687 ERROR frappe New Exception collected with id: 2020-10-25 01:28:18.684196-188.114.103.191-f8b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:20,646 ERROR frappe New Exception collected with id: 2020-10-25 01:28:20.641295-188.114.103.191-02f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:21,731 ERROR frappe New Exception collected with id: 2020-10-25 01:28:21.726664-188.114.103.191-352
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:23,277 ERROR frappe New Exception collected with id: 2020-10-25 01:28:23.273826-188.114.103.191-444
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:24,549 ERROR frappe New Exception collected with id: 2020-10-25 01:28:24.546303-188.114.103.191-52d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:26,102 ERROR frappe New Exception collected with id: 2020-10-25 01:28:26.099542-188.114.103.191-00e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:27,259 ERROR frappe New Exception collected with id: 2020-10-25 01:28:27.254833-188.114.103.191-9a1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:28,645 ERROR frappe New Exception collected with id: 2020-10-25 01:28:28.642458-188.114.103.191-81a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:29,716 ERROR frappe New Exception collected with id: 2020-10-25 01:28:29.713064-188.114.103.191-ce8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:31,087 ERROR frappe New Exception collected with id: 2020-10-25 01:28:31.082582-188.114.103.191-0d2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:32,226 ERROR frappe New Exception collected with id: 2020-10-25 01:28:32.223075-188.114.103.191-c4a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:33,693 ERROR frappe New Exception collected with id: 2020-10-25 01:28:33.689117-188.114.103.191-2dd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:34,754 ERROR frappe New Exception collected with id: 2020-10-25 01:28:34.750169-188.114.103.191-5fa
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:36,363 ERROR frappe New Exception collected with id: 2020-10-25 01:28:36.359184-188.114.103.192-15b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:37,451 ERROR frappe New Exception collected with id: 2020-10-25 01:28:37.448125-188.114.103.191-6c6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:39,020 ERROR frappe New Exception collected with id: 2020-10-25 01:28:39.017450-188.114.103.191-5fb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:40,227 ERROR frappe New Exception collected with id: 2020-10-25 01:28:40.223148-188.114.103.191-c05
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:41,718 ERROR frappe New Exception collected with id: 2020-10-25 01:28:41.715800-188.114.103.191-05b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:42,887 ERROR frappe New Exception collected with id: 2020-10-25 01:28:42.884479-188.114.103.191-edd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:44,467 ERROR frappe New Exception collected with id: 2020-10-25 01:28:44.464748-188.114.103.191-74f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 01:28:45,701 ERROR frappe New Exception collected with id: 2020-10-25 01:28:45.698231-188.114.103.191-6d4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:04:27,875 ERROR frappe New Exception collected with id: 2020-10-25 02:04:27.871450-188.114.102.58-0c6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:04:29,587 ERROR frappe New Exception collected with id: 2020-10-25 02:04:29.584139-188.114.102.58-39d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:04:31,036 ERROR frappe New Exception collected with id: 2020-10-25 02:04:31.029619-188.114.102.58-f26
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:04:35,314 ERROR frappe New Exception collected with id: 2020-10-25 02:04:35.311177-188.114.102.58-957
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:12:15,160 ERROR frappe New Exception collected with id: 2020-10-25 02:12:15.157128-172.68.94.22-786
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:12:16,720 ERROR frappe New Exception collected with id: 2020-10-25 02:12:16.717206-172.68.94.22-f7a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:14:27,617 ERROR frappe New Exception collected with id: 2020-10-25 02:14:27.613198-188.114.103.229-b02
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:14:29,273 ERROR frappe New Exception collected with id: 2020-10-25 02:14:29.263741-188.114.103.229-09f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:14:35,143 ERROR frappe New Exception collected with id: 2020-10-25 02:14:35.140224-188.114.103.229-ca9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:14:36,528 ERROR frappe New Exception collected with id: 2020-10-25 02:14:36.524796-188.114.103.229-886
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:26:48,721 ERROR frappe New Exception collected with id: 2020-10-25 02:26:48.718306-188.114.103.191-1fd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:38,555 ERROR frappe New Exception collected with id: 2020-10-25 02:43:38.552459-188.114.102.58-bfe
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:40,154 ERROR frappe New Exception collected with id: 2020-10-25 02:43:40.151344-188.114.102.58-9f8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:43,474 ERROR frappe New Exception collected with id: 2020-10-25 02:43:43.469620-188.114.102.58-e67
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:46,431 ERROR frappe New Exception collected with id: 2020-10-25 02:43:46.428842-188.114.102.58-7bc
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:48,100 ERROR frappe New Exception collected with id: 2020-10-25 02:43:48.096999-188.114.102.58-4ff
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:49,922 ERROR frappe New Exception collected with id: 2020-10-25 02:43:49.919195-188.114.102.58-644
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:51,674 ERROR frappe New Exception collected with id: 2020-10-25 02:43:51.671754-188.114.102.58-47f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:53,463 ERROR frappe New Exception collected with id: 2020-10-25 02:43:53.458143-188.114.102.58-591
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:54,870 ERROR frappe New Exception collected with id: 2020-10-25 02:43:54.867521-188.114.102.58-f2c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:56,428 ERROR frappe New Exception collected with id: 2020-10-25 02:43:56.423490-188.114.102.58-02a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:57,812 ERROR frappe New Exception collected with id: 2020-10-25 02:43:57.809641-188.114.102.58-a53
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:43:59,196 ERROR frappe New Exception collected with id: 2020-10-25 02:43:59.193863-188.114.102.58-fc1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:44:04,007 ERROR frappe New Exception collected with id: 2020-10-25 02:44:04.004619-188.114.102.58-f09
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:34,648 ERROR frappe New Exception collected with id: 2020-10-25 02:48:34.645073-188.114.102.18-ab6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:37,039 ERROR frappe New Exception collected with id: 2020-10-25 02:48:37.034632-188.114.102.18-b42
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:39,976 ERROR frappe New Exception collected with id: 2020-10-25 02:48:39.973222-188.114.102.18-c6b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:42,807 ERROR frappe New Exception collected with id: 2020-10-25 02:48:42.805044-188.114.102.18-a8a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:44,415 ERROR frappe New Exception collected with id: 2020-10-25 02:48:44.412783-188.114.102.18-8d0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:46,072 ERROR frappe New Exception collected with id: 2020-10-25 02:48:46.065024-188.114.102.18-6fc
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:47,622 ERROR frappe New Exception collected with id: 2020-10-25 02:48:47.619683-188.114.102.18-878
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:49,209 ERROR frappe New Exception collected with id: 2020-10-25 02:48:49.204807-188.114.102.18-501
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:50,903 ERROR frappe New Exception collected with id: 2020-10-25 02:48:50.900687-188.114.102.18-a63
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:52,394 ERROR frappe New Exception collected with id: 2020-10-25 02:48:52.391643-188.114.102.18-775
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:54,323 ERROR frappe New Exception collected with id: 2020-10-25 02:48:54.320406-188.114.102.19-4d1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:55,950 ERROR frappe New Exception collected with id: 2020-10-25 02:48:55.945581-188.114.102.18-033
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:58,191 ERROR frappe New Exception collected with id: 2020-10-25 02:48:58.188681-188.114.102.18-68d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:48:59,931 ERROR frappe New Exception collected with id: 2020-10-25 02:48:59.928427-188.114.102.18-486
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:49:01,599 ERROR frappe New Exception collected with id: 2020-10-25 02:49:01.596468-188.114.102.18-753
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:17,417 ERROR frappe New Exception collected with id: 2020-10-25 02:58:17.414695-172.68.94.22-889
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:18,785 ERROR frappe New Exception collected with id: 2020-10-25 02:58:18.782111-172.68.94.22-f57
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:19,931 ERROR frappe New Exception collected with id: 2020-10-25 02:58:19.928059-172.68.94.22-b4a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:21,519 ERROR frappe New Exception collected with id: 2020-10-25 02:58:21.516885-172.68.94.22-ff0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:22,876 ERROR frappe New Exception collected with id: 2020-10-25 02:58:22.872951-172.68.94.22-68f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:25,205 ERROR frappe New Exception collected with id: 2020-10-25 02:58:25.202212-172.68.94.22-cfa
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:26,644 ERROR frappe New Exception collected with id: 2020-10-25 02:58:26.640646-172.68.94.22-1a1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:27,732 ERROR frappe New Exception collected with id: 2020-10-25 02:58:27.729780-172.68.94.22-562
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:28,758 ERROR frappe New Exception collected with id: 2020-10-25 02:58:28.755597-172.68.94.22-8a6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:30,573 ERROR frappe New Exception collected with id: 2020-10-25 02:58:30.570636-172.68.94.22-7f7
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:31,971 ERROR frappe New Exception collected with id: 2020-10-25 02:58:31.968505-172.68.94.22-828
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:39,831 ERROR frappe New Exception collected with id: 2020-10-25 02:58:39.828647-172.68.94.22-d21
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:44,874 ERROR frappe New Exception collected with id: 2020-10-25 02:58:44.871341-172.68.94.22-8b1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:48,366 ERROR frappe New Exception collected with id: 2020-10-25 02:58:48.363646-172.68.94.22-6f4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:52,051 ERROR frappe New Exception collected with id: 2020-10-25 02:58:52.048343-172.68.94.22-01e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:53,831 ERROR frappe New Exception collected with id: 2020-10-25 02:58:53.828366-172.68.94.22-0cd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:56,792 ERROR frappe New Exception collected with id: 2020-10-25 02:58:56.789284-172.68.94.22-ce2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:57,918 ERROR frappe New Exception collected with id: 2020-10-25 02:58:57.913152-172.68.94.22-498
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:58:59,446 ERROR frappe New Exception collected with id: 2020-10-25 02:58:59.443275-172.68.94.22-ffc
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:00,531 ERROR frappe New Exception collected with id: 2020-10-25 02:59:00.528525-172.68.94.22-98f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:01,589 ERROR frappe New Exception collected with id: 2020-10-25 02:59:01.581235-172.68.94.27-68d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:02,976 ERROR frappe New Exception collected with id: 2020-10-25 02:59:02.973233-172.68.94.22-eb7
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:04,262 ERROR frappe New Exception collected with id: 2020-10-25 02:59:04.256936-172.68.94.22-900
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:05,305 ERROR frappe New Exception collected with id: 2020-10-25 02:59:05.302643-172.68.94.22-451
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:06,638 ERROR frappe New Exception collected with id: 2020-10-25 02:59:06.634927-172.68.94.27-3a6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:08,161 ERROR frappe New Exception collected with id: 2020-10-25 02:59:08.158529-172.68.94.22-990
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:09,377 ERROR frappe New Exception collected with id: 2020-10-25 02:59:09.373011-172.68.94.22-a37
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:10,924 ERROR frappe New Exception collected with id: 2020-10-25 02:59:10.919546-172.68.94.22-8d2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:11,993 ERROR frappe New Exception collected with id: 2020-10-25 02:59:11.988391-172.68.94.22-69f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:13,067 ERROR frappe New Exception collected with id: 2020-10-25 02:59:13.064400-172.68.94.22-a92
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:14,447 ERROR frappe New Exception collected with id: 2020-10-25 02:59:14.444632-172.68.94.22-cb2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:15,516 ERROR frappe New Exception collected with id: 2020-10-25 02:59:15.512624-172.68.94.22-7b2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:16,689 ERROR frappe New Exception collected with id: 2020-10-25 02:59:16.686654-172.68.94.22-9ba
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:18,024 ERROR frappe New Exception collected with id: 2020-10-25 02:59:18.021998-172.68.94.22-89d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:19,076 ERROR frappe New Exception collected with id: 2020-10-25 02:59:19.073061-172.68.94.22-13c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:22,504 ERROR frappe New Exception collected with id: 2020-10-25 02:59:22.501947-172.68.94.22-373
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:24,411 ERROR frappe New Exception collected with id: 2020-10-25 02:59:24.407935-172.68.94.22-9d8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:25,643 ERROR frappe New Exception collected with id: 2020-10-25 02:59:25.640233-172.68.94.22-6a1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:26,677 ERROR frappe New Exception collected with id: 2020-10-25 02:59:26.674524-172.68.94.22-49f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:28,241 ERROR frappe New Exception collected with id: 2020-10-25 02:59:28.238050-172.68.94.22-cfd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:29,283 ERROR frappe New Exception collected with id: 2020-10-25 02:59:29.277737-172.68.94.22-a09
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:30,323 ERROR frappe New Exception collected with id: 2020-10-25 02:59:30.320532-172.68.94.22-323
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:31,647 ERROR frappe New Exception collected with id: 2020-10-25 02:59:31.644389-172.68.94.22-63e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:32,683 ERROR frappe New Exception collected with id: 2020-10-25 02:59:32.680055-172.68.94.22-7ae
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 02:59:33,754 ERROR frappe New Exception collected with id: 2020-10-25 02:59:33.751377-172.68.94.22-a47
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:28,778 ERROR frappe New Exception collected with id: 2020-10-25 03:14:28.774940-172.68.94.22-e47
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:30,300 ERROR frappe New Exception collected with id: 2020-10-25 03:14:30.297286-172.68.94.22-adb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:31,384 ERROR frappe New Exception collected with id: 2020-10-25 03:14:31.381841-172.68.94.22-1eb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:32,844 ERROR frappe New Exception collected with id: 2020-10-25 03:14:32.841910-172.68.94.22-7d1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:34,634 ERROR frappe New Exception collected with id: 2020-10-25 03:14:34.631134-172.68.94.70-d77
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:36,107 ERROR frappe New Exception collected with id: 2020-10-25 03:14:36.104612-172.68.94.70-918
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:37,498 ERROR frappe New Exception collected with id: 2020-10-25 03:14:37.495571-172.68.94.70-0a7
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:38,861 ERROR frappe New Exception collected with id: 2020-10-25 03:14:38.850644-172.68.94.70-c7d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:40,598 ERROR frappe New Exception collected with id: 2020-10-25 03:14:40.594379-172.68.94.70-227
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:41,983 ERROR frappe New Exception collected with id: 2020-10-25 03:14:41.980742-172.68.94.70-991
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:43,044 ERROR frappe New Exception collected with id: 2020-10-25 03:14:43.041265-172.68.94.75-b25
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:44,449 ERROR frappe New Exception collected with id: 2020-10-25 03:14:44.444573-172.68.94.70-8df
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:45,532 ERROR frappe New Exception collected with id: 2020-10-25 03:14:45.528786-172.68.94.70-8f5
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:46,602 ERROR frappe New Exception collected with id: 2020-10-25 03:14:46.595371-172.68.94.70-5e4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:47,986 ERROR frappe New Exception collected with id: 2020-10-25 03:14:47.983459-172.68.94.70-934
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:49,562 ERROR frappe New Exception collected with id: 2020-10-25 03:14:49.558842-172.68.94.70-3f3
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:50,615 ERROR frappe New Exception collected with id: 2020-10-25 03:14:50.612298-172.68.94.70-a4b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:51,677 ERROR frappe New Exception collected with id: 2020-10-25 03:14:51.673828-172.68.94.70-fd3
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:53,046 ERROR frappe New Exception collected with id: 2020-10-25 03:14:53.042915-172.68.94.70-23b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:54,351 ERROR frappe New Exception collected with id: 2020-10-25 03:14:54.348008-172.68.94.70-45c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:55,661 ERROR frappe New Exception collected with id: 2020-10-25 03:14:55.656973-172.68.94.70-a6b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:57,068 ERROR frappe New Exception collected with id: 2020-10-25 03:14:57.065206-172.68.94.70-ad9
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:58,119 ERROR frappe New Exception collected with id: 2020-10-25 03:14:58.116350-172.68.94.70-56b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:14:59,282 ERROR frappe New Exception collected with id: 2020-10-25 03:14:59.279363-172.68.94.70-3a4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:00,834 ERROR frappe New Exception collected with id: 2020-10-25 03:15:00.831438-172.68.94.75-0eb
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:01,898 ERROR frappe New Exception collected with id: 2020-10-25 03:15:01.895374-172.68.94.70-521
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:02,970 ERROR frappe New Exception collected with id: 2020-10-25 03:15:02.967179-172.68.94.70-d1f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:04,316 ERROR frappe New Exception collected with id: 2020-10-25 03:15:04.313903-172.68.94.70-271
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:05,388 ERROR frappe New Exception collected with id: 2020-10-25 03:15:05.385955-172.68.94.75-b5a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:06,455 ERROR frappe New Exception collected with id: 2020-10-25 03:15:06.450734-172.68.94.70-dd6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:07,830 ERROR frappe New Exception collected with id: 2020-10-25 03:15:07.825381-172.68.94.70-5c0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:08,903 ERROR frappe New Exception collected with id: 2020-10-25 03:15:08.900596-172.68.94.70-fe3
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:10,053 ERROR frappe New Exception collected with id: 2020-10-25 03:15:10.050696-172.68.94.70-bba
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:11,496 ERROR frappe New Exception collected with id: 2020-10-25 03:15:11.491449-172.68.94.70-320
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:12,551 ERROR frappe New Exception collected with id: 2020-10-25 03:15:12.548769-172.68.94.70-3f5
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:13,681 ERROR frappe New Exception collected with id: 2020-10-25 03:15:13.666247-172.68.94.70-bf6
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:15,157 ERROR frappe New Exception collected with id: 2020-10-25 03:15:15.155067-172.68.94.70-b0e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:16,214 ERROR frappe New Exception collected with id: 2020-10-25 03:15:16.210769-172.68.94.70-b51
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:17,259 ERROR frappe New Exception collected with id: 2020-10-25 03:15:17.254267-172.68.94.70-c21
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:18,603 ERROR frappe New Exception collected with id: 2020-10-25 03:15:18.600675-172.68.94.70-460
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:19,662 ERROR frappe New Exception collected with id: 2020-10-25 03:15:19.657392-172.68.94.75-732
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:20,908 ERROR frappe New Exception collected with id: 2020-10-25 03:15:20.906046-172.68.94.70-110
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:22,244 ERROR frappe New Exception collected with id: 2020-10-25 03:15:22.241377-172.68.94.70-738
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:23,288 ERROR frappe New Exception collected with id: 2020-10-25 03:15:23.285540-172.68.94.70-07a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:15:24,414 ERROR frappe New Exception collected with id: 2020-10-25 03:15:24.411286-172.68.94.70-198
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:15,533 ERROR frappe New Exception collected with id: 2020-10-25 03:19:15.530318-188.114.103.211-c1e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:16,991 ERROR frappe New Exception collected with id: 2020-10-25 03:19:16.986521-188.114.103.211-65c
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:18,306 ERROR frappe New Exception collected with id: 2020-10-25 03:19:18.303388-188.114.103.211-1da
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:19,849 ERROR frappe New Exception collected with id: 2020-10-25 03:19:19.844522-188.114.103.211-499
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:21,172 ERROR frappe New Exception collected with id: 2020-10-25 03:19:21.169547-188.114.103.211-f4a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:22,453 ERROR frappe New Exception collected with id: 2020-10-25 03:19:22.449902-188.114.103.211-57d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:24,081 ERROR frappe New Exception collected with id: 2020-10-25 03:19:24.078558-188.114.103.211-aff
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:25,310 ERROR frappe New Exception collected with id: 2020-10-25 03:19:25.307035-188.114.103.211-82f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:26,485 ERROR frappe New Exception collected with id: 2020-10-25 03:19:26.482493-188.114.103.211-4f0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:28,076 ERROR frappe New Exception collected with id: 2020-10-25 03:19:28.073768-188.114.103.211-4b3
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:29,138 ERROR frappe New Exception collected with id: 2020-10-25 03:19:29.136166-188.114.103.211-930
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:30,264 ERROR frappe New Exception collected with id: 2020-10-25 03:19:30.261112-188.114.103.211-e1b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:31,703 ERROR frappe New Exception collected with id: 2020-10-25 03:19:31.698815-188.114.103.212-b8b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:32,809 ERROR frappe New Exception collected with id: 2020-10-25 03:19:32.806502-188.114.103.211-383
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:33,888 ERROR frappe New Exception collected with id: 2020-10-25 03:19:33.885384-188.114.103.211-ce1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:35,239 ERROR frappe New Exception collected with id: 2020-10-25 03:19:35.236369-188.114.103.211-dee
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:36,316 ERROR frappe New Exception collected with id: 2020-10-25 03:19:36.312510-188.114.103.211-926
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:37,658 ERROR frappe New Exception collected with id: 2020-10-25 03:19:37.655472-188.114.103.211-7a8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:39,038 ERROR frappe New Exception collected with id: 2020-10-25 03:19:39.033135-188.114.103.211-11d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:40,131 ERROR frappe New Exception collected with id: 2020-10-25 03:19:40.128674-188.114.103.211-15b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:41,258 ERROR frappe New Exception collected with id: 2020-10-25 03:19:41.255658-188.114.103.211-c0b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:42,618 ERROR frappe New Exception collected with id: 2020-10-25 03:19:42.615012-188.114.103.211-363
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:43,706 ERROR frappe New Exception collected with id: 2020-10-25 03:19:43.701622-188.114.103.211-b5e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:44,819 ERROR frappe New Exception collected with id: 2020-10-25 03:19:44.814478-188.114.103.211-639
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:46,205 ERROR frappe New Exception collected with id: 2020-10-25 03:19:46.202716-188.114.103.211-96d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:47,273 ERROR frappe New Exception collected with id: 2020-10-25 03:19:47.270437-188.114.103.211-780
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:48,352 ERROR frappe New Exception collected with id: 2020-10-25 03:19:48.349167-188.114.103.211-e32
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:49,700 ERROR frappe New Exception collected with id: 2020-10-25 03:19:49.697323-188.114.103.211-e6a
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:50,780 ERROR frappe New Exception collected with id: 2020-10-25 03:19:50.776847-188.114.103.211-f5e
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:51,836 ERROR frappe New Exception collected with id: 2020-10-25 03:19:51.833342-188.114.103.211-f42
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:53,235 ERROR frappe New Exception collected with id: 2020-10-25 03:19:53.230172-188.114.103.211-d68
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:54,901 ERROR frappe New Exception collected with id: 2020-10-25 03:19:54.897933-188.114.103.211-7b0
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:56,015 ERROR frappe New Exception collected with id: 2020-10-25 03:19:56.012466-188.114.103.211-d81
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:58,008 ERROR frappe New Exception collected with id: 2020-10-25 03:19:58.004296-188.114.103.211-f7b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:19:59,231 ERROR frappe New Exception collected with id: 2020-10-25 03:19:59.228416-188.114.103.211-d83
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:01,129 ERROR frappe New Exception collected with id: 2020-10-25 03:20:01.126606-188.114.103.211-ded
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:02,952 ERROR frappe New Exception collected with id: 2020-10-25 03:20:02.947892-188.114.103.211-4ca
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:04,110 ERROR frappe New Exception collected with id: 2020-10-25 03:20:04.107377-188.114.103.211-8ed
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:05,233 ERROR frappe New Exception collected with id: 2020-10-25 03:20:05.230744-188.114.103.212-921
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:06,956 ERROR frappe New Exception collected with id: 2020-10-25 03:20:06.952299-188.114.103.211-824
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:08,062 ERROR frappe New Exception collected with id: 2020-10-25 03:20:08.058994-188.114.103.211-b68
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:09,365 ERROR frappe New Exception collected with id: 2020-10-25 03:20:09.362480-188.114.103.211-e02
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:10,973 ERROR frappe New Exception collected with id: 2020-10-25 03:20:10.970460-188.114.103.211-f51
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:12,061 ERROR frappe New Exception collected with id: 2020-10-25 03:20:12.058155-188.114.103.211-e56
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:13,264 ERROR frappe New Exception collected with id: 2020-10-25 03:20:13.258351-188.114.103.211-a11
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:15,506 ERROR frappe New Exception collected with id: 2020-10-25 03:20:15.490626-188.114.103.211-18d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:19,723 ERROR frappe New Exception collected with id: 2020-10-25 03:20:19.715131-188.114.103.211-0a1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:32,935 ERROR frappe New Exception collected with id: 2020-10-25 03:20:32.932815-188.114.103.211-9d2
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:38,083 ERROR frappe New Exception collected with id: 2020-10-25 03:20:38.080317-188.114.103.212-380
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:39,692 ERROR frappe New Exception collected with id: 2020-10-25 03:20:39.686727-188.114.103.211-f5d
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:41,083 ERROR frappe New Exception collected with id: 2020-10-25 03:20:41.078341-188.114.103.211-09f
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:42,682 ERROR frappe New Exception collected with id: 2020-10-25 03:20:42.672311-188.114.103.211-98b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:43,991 ERROR frappe New Exception collected with id: 2020-10-25 03:20:43.987621-188.114.103.211-dfe
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:47,473 ERROR frappe New Exception collected with id: 2020-10-25 03:20:47.469255-188.114.103.211-5a4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:50,418 ERROR frappe New Exception collected with id: 2020-10-25 03:20:50.415742-188.114.103.211-cc4
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:52,103 ERROR frappe New Exception collected with id: 2020-10-25 03:20:52.100317-188.114.103.211-d05
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:54,157 ERROR frappe New Exception collected with id: 2020-10-25 03:20:54.154700-188.114.103.211-fd5
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:55,914 ERROR frappe New Exception collected with id: 2020-10-25 03:20:55.909880-188.114.103.211-4c8
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:57,067 ERROR frappe New Exception collected with id: 2020-10-25 03:20:57.063074-188.114.103.211-7af
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:20:58,427 ERROR frappe New Exception collected with id: 2020-10-25 03:20:58.424771-188.114.103.211-e64
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:35:11,497 ERROR frappe New Exception collected with id: 2020-10-25 03:35:11.491831-172.68.94.22-8d1
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 03:37:16,444 ERROR frappe New Exception collected with id: 2020-10-25 03:37:16.441407-188.114.103.229-0dd
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-25 11:35:27,363 ERROR frappe New Exception collected with id: 2020-10-25 11:35:27.361975-188.114.102.18-6a5
+Site: finance2.branderaa.net
+Form Dict: {'doctype': 'Stock Entry', 'docnamed': 'MAT-STE-2020-00802-4', 'cmd': 'frappe.client.is_document_amended'}
+2020-10-25 12:37:53,190 ERROR frappe New Exception collected with id: 2020-10-25 12:37:53.188334-188.114.103.191-b83
+Site: finance2.branderaa.net
+Form Dict: {'amended_from': 'MAT-STE-2020-00813', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 12:46:20,426 ERROR frappe New Exception collected with id: 2020-10-25 12:46:20.424971-188.114.102.56-151
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "06:46:20","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "363920719",\n                                         "amended_from":"MAT-STE-2020-00818",\n                                        "item_name": "product1","qty": 6, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 12:49:25,564 ERROR frappe New Exception collected with id: 2020-10-25 12:49:25.561485-172.68.94.22-615
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "06:49:25","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "339081661",\n                                         "amended_from":"MAT-STE-2020-00823",\n                                        "item_name": "product2","qty": 7, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 12:55:13,627 ERROR frappe New Exception collected with id: 2020-10-25 12:55:13.624772-172.68.94.22-1e9
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "06:55:13","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "363920719",\n                                         "amended_from":"MAT-STE-2020-00827",\n                                        "item_name": "product1","qty": 6, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:00:05,932 ERROR frappe New Exception collected with id: 2020-10-25 13:00:05.930640-188.114.102.58-b4e
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:00:05","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "339081661",\n                                         "amended_from":"MAT-STE-2020-00831",\n                                        "item_name": "product2","qty": 7, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:13:36,870 ERROR frappe New Exception collected with id: 2020-10-25 13:13:36.868832-188.114.103.211-4ed
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:13:36","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "363920719",\n                                         "amended_from":"MAT-STE-2020-00835",\n                                        "item_name": "product1","qty": 6, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:18:23,823 ERROR frappe New Exception collected with id: 2020-10-25 13:18:23.821206-188.114.103.191-29f
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:18:23","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "339081661",\n                                         "amended_from":"MAT-STE-2020-00839",\n                                        "item_name": "product2","qty": 7, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:18:34,454 ERROR frappe New Exception collected with id: 2020-10-25 13:18:34.452740-188.114.103.191-e68
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:18:34","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "363920719",\n                                         "amended_from":"MAT-STE-2020-00835-1",\n                                        "item_name": "product1","qty": 6, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:23:30,390 ERROR frappe New Exception collected with id: 2020-10-25 13:23:30.387623-188.114.102.56-e50
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:23:30","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "339081661",\n                                         "amended_from":"MAT-STE-2020-00839-1",\n                                        "item_name": "product2","qty": 7, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 13:23:42,425 ERROR frappe New Exception collected with id: 2020-10-25 13:23:42.423496-188.114.102.56-9ad
+Site: finance2.branderaa.net
+Form Dict: {'data': '{"stock_entry_type":"Material Transfer", "company": "Branderaa", "posting_date":"2020-10-25",\n                            "posting_time": "07:23:42","items": [\n                                        {"s_warehouse": "Stores - B",\n                                         "t_warehouse": "warehouse1 - B",\n                                         "item_code": "363920719",\n                                         "amended_from":"MAT-STE-2020-00835-2",\n                                        "item_name": "product1","qty": 6, "uom": "Unit"}\n                                        ]}', 'cmd': 'frappe.desk.form.save.savedocs'}
+2020-10-25 17:13:44,321 ERROR frappe New Exception collected with id: 2020-10-25 17:13:44.318492-172.68.94.136-16b
+Site: finance2.branderaa.net
+Form Dict: {}
+2020-10-26 22:39:48,925 ERROR frappe New Exception collected with id: 2020-10-26 22:39:48.530574-172.69.63.47-a9c
+Site: finance2.branderaa.net
+Form Dict: {'cmd': 'frappe.realtime.get_user_info'}
+2020-10-30 03:39:24,608 ERROR frappe New Exception collected with id: 2020-10-30 03:39:24.434383-188.114.103.191-917
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer.xlsx', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.validate_accounts'}
+2020-10-30 03:39:24,611 ERROR frappe New Exception collected with id: 2020-10-30 03:39:24.432174-188.114.103.191-356
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 03:39:47,161 ERROR frappe New Exception collected with id: 2020-10-30 03:39:47.157603-188.114.103.191-bae
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:00:41,658 ERROR frappe New Exception collected with id: 2020-10-30 04:00:41.655851-172.68.94.16-326
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer85f816.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:00:45,618 ERROR frappe New Exception collected with id: 2020-10-30 04:00:45.586019-172.68.94.16-096
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer85f816.xlsx', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.validate_accounts'}
+2020-10-30 04:00:54,112 ERROR frappe New Exception collected with id: 2020-10-30 04:00:54.109223-172.68.94.16-34c
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer85f816.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:02:06,512 ERROR frappe New Exception collected with id: 2020-10-30 04:02:06.509624-172.68.94.16-d59
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer924b08.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:02:10,030 ERROR frappe New Exception collected with id: 2020-10-30 04:02:10.026685-172.68.94.16-091
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer924b08.xlsx', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.validate_accounts'}
+2020-10-30 04:02:21,524 ERROR frappe New Exception collected with id: 2020-10-30 04:02:21.521878-172.68.94.16-09b
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer924b08.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:04:17,267 ERROR frappe New Exception collected with id: 2020-10-30 04:04:17.264212-172.68.94.16-b7c
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer22.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 04:04:20,731 ERROR frappe New Exception collected with id: 2020-10-30 04:04:20.728467-172.68.94.16-69b
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer22.xlsx', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.validate_accounts'}
+2020-10-30 11:09:23,200 ERROR frappe New Exception collected with id: 2020-10-30 11:09:23.197459-188.114.103.191-c2b
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer226e280d.xlsx', 'parent': 'All Accounts', 'doctype': 'Chart of Accounts Importer', 'is_root': 'true', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.get_coa'}
+2020-10-30 11:09:27,032 ERROR frappe New Exception collected with id: 2020-10-30 11:09:27.029361-188.114.103.191-850
+Site: finance2.branderaa.net
+Form Dict: {'file_name': '/private/files/Chart_of_Accounts_Importer226e280d.xlsx', 'cmd': 'erpnext.accounts.doctype.chart_of_accounts_importer.chart_of_accounts_importer.validate_accounts'}

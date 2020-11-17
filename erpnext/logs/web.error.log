@@ -1,0 +1,81 @@
+[2020-10-19 11:58:57 +0000] [3723] [INFO] Starting gunicorn 19.10.0
+[2020-10-19 11:58:57 +0000] [3723] [INFO] Listening at: http://127.0.0.1:8000 (3723)
+[2020-10-19 11:58:57 +0000] [3723] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-19 11:58:57 +0000] [3796] [INFO] Booting worker with pid: 3796
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-19 11:58:57 +0000] [3798] [INFO] Booting worker with pid: 3798
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-19 12:31:33 +0000] [3723] [INFO] Handling signal: term
+[2020-10-19 12:31:33 +0000] [3798] [INFO] Worker exiting (pid: 3798)
+[2020-10-19 12:31:33 +0000] [3796] [INFO] Worker exiting (pid: 3796)
+[2020-10-19 12:31:34 +0000] [3723] [INFO] Shutting down: Master
+[2020-10-19 12:31:43 +0000] [17002] [INFO] Starting gunicorn 19.10.0
+[2020-10-19 12:31:43 +0000] [17002] [INFO] Listening at: http://127.0.0.1:8000 (17002)
+[2020-10-19 12:31:43 +0000] [17002] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-19 12:31:43 +0000] [17104] [INFO] Booting worker with pid: 17104
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-19 12:31:44 +0000] [17107] [INFO] Booting worker with pid: 17107
+[2020-10-26 22:39:46 +0000] [1111] [INFO] Starting gunicorn 19.10.0
+[2020-10-26 22:39:46 +0000] [1111] [INFO] Listening at: http://127.0.0.1:8000 (1111)
+[2020-10-26 22:39:46 +0000] [1111] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-26 22:39:46 +0000] [2115] [INFO] Booting worker with pid: 2115
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-26 22:39:46 +0000] [2133] [INFO] Booting worker with pid: 2133
+[2020-10-26 23:06:48 +0000] [1232] [INFO] Starting gunicorn 19.10.0
+[2020-10-26 23:06:48 +0000] [1232] [INFO] Listening at: http://127.0.0.1:8000 (1232)
+[2020-10-26 23:06:48 +0000] [1232] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-26 23:06:48 +0000] [2182] [INFO] Booting worker with pid: 2182
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-26 23:06:48 +0000] [2183] [INFO] Booting worker with pid: 2183
+[2020-10-30 14:21:43 +0000] [1245] [INFO] Starting gunicorn 19.10.0
+[2020-10-30 14:21:43 +0000] [1245] [INFO] Listening at: http://127.0.0.1:8000 (1245)
+[2020-10-30 14:21:43 +0000] [1245] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-30 14:21:43 +0000] [2196] [INFO] Booting worker with pid: 2196
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-10-30 14:21:43 +0000] [2197] [INFO] Booting worker with pid: 2197
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:28:09 +0000] [1245] [INFO] Handling signal: term
+[2020-11-08 01:28:09 +0000] [2196] [INFO] Worker exiting (pid: 2196)
+[2020-11-08 01:28:09 +0000] [2197] [INFO] Worker exiting (pid: 2197)
+[2020-11-08 01:28:10 +0000] [1245] [INFO] Shutting down: Master
+[2020-11-08 01:28:13 +0000] [324153] [INFO] Starting gunicorn 19.10.0
+[2020-11-08 01:28:13 +0000] [324153] [INFO] Listening at: http://127.0.0.1:8000 (324153)
+[2020-11-08 01:28:13 +0000] [324153] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:28:14 +0000] [324168] [INFO] Booting worker with pid: 324168
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:28:14 +0000] [324169] [INFO] Booting worker with pid: 324169
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:30:56 +0000] [324153] [INFO] Handling signal: term
+[2020-11-08 01:30:56 +0000] [324169] [INFO] Worker exiting (pid: 324169)
+[2020-11-08 01:30:56 +0000] [324168] [INFO] Worker exiting (pid: 324168)
+[2020-11-08 01:30:56 +0000] [324153] [INFO] Shutting down: Master
+[2020-11-08 01:30:59 +0000] [324384] [INFO] Starting gunicorn 19.10.0
+[2020-11-08 01:30:59 +0000] [324384] [INFO] Listening at: http://127.0.0.1:8000 (324384)
+[2020-11-08 01:30:59 +0000] [324384] [INFO] Using worker: sync
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:30:59 +0000] [324398] [INFO] Booting worker with pid: 324398
+/usr/lib/python3.8/os.py:1023: RuntimeWarning: line buffering (buffering=1) isn't supported in binary mode, the default buffer size will be used
+  return io.open(fd, *args, **kwargs)
+[2020-11-08 01:30:59 +0000] [324399] [INFO] Booting worker with pid: 324399

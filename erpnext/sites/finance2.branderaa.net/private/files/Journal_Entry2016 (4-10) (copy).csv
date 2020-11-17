@@ -1,0 +1,9 @@
+Entry Type,Series,Company,Posting Date,,,Account (Accounting Entries),Credit (Accounting Entries),Debit (Accounting Entries),Cost Center (Accounting Entries),Party Type (Accounting Entries),Party (Accounting Entries)
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-04,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3811.26,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3811.26,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,1,3811.26,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,2,5706.88,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,5706.88,0,Main - B,,

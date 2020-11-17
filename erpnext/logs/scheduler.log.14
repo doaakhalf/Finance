@@ -1,0 +1,717 @@
+2020-11-15 01:48:49,449 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:48:49,469 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:48:49,552 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:48:49,679 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:48:49,763 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:48:49,894 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:48:50,047 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:48:50,178 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:48:50,236 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:48:50,365 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:48:50,425 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:48:50,553 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:48:50,629 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:48:50,757 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:48:50,868 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:48:50,996 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:48:51,117 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:48:51,243 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:48:51,320 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:49:49,760 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:50:50,070 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:51:50,391 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:52:50,742 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:52:50,766 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:52:50,848 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:52:50,983 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:52:51,068 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:52:51,197 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:52:51,349 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:52:51,482 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:52:51,540 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:52:51,668 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:52:51,728 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:52:51,855 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:52:51,929 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:52:52,054 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:52:52,162 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:52:52,295 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:52:52,412 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:52:52,545 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:52:52,636 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:53:51,066 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:54:51,388 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:55:51,711 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:56:52,054 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:56:52,089 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:56:52,169 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 01:56:52,296 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:56:52,379 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 01:56:52,507 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:56:52,654 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 01:56:52,784 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:56:52,842 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 01:56:52,973 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:56:53,034 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 01:56:53,160 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:56:53,240 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 01:56:53,368 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:56:53,484 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 01:56:53,612 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:56:53,730 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 01:56:53,857 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:56:53,930 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 01:57:52,378 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:58:52,697 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 01:59:53,026 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:00:53,406 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for finance2.branderaa.net
+2020-11-15 02:00:53,572 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:00:53,636 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for finance2.branderaa.net
+2020-11-15 02:00:53,776 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for finance2.branderaa.net
+2020-11-15 02:00:53,956 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for finance2.branderaa.net
+2020-11-15 02:00:54,096 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for finance2.branderaa.net
+2020-11-15 02:00:54,316 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for finance2.branderaa.net
+2020-11-15 02:00:54,462 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for finance2.branderaa.net
+2020-11-15 02:00:54,710 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for finance2.branderaa.net
+2020-11-15 02:00:54,845 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for finance2.branderaa.net
+2020-11-15 02:00:55,091 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for finance2.branderaa.net
+2020-11-15 02:00:55,230 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for finance2.branderaa.net
+2020-11-15 02:00:55,419 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for finance2.branderaa.net
+2020-11-15 02:00:55,559 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for finance2.branderaa.net
+2020-11-15 02:00:55,732 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for finance2.branderaa.net
+2020-11-15 02:00:55,871 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for finance2.branderaa.net
+2020-11-15 02:00:56,055 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for finance2.branderaa.net
+2020-11-15 02:00:56,193 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for finance2.branderaa.net
+2020-11-15 02:00:56,369 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for finance2.branderaa.net
+2020-11-15 02:00:56,506 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:00:56,589 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:00:56,721 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:00:56,806 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:00:56,933 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:00:57,086 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:00:57,214 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 02:00:57,470 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 02:00:57,615 INFO scheduler Scheduled Job Start: frappe.utils.password.delete_password_reset_cache for finance2.branderaa.net
+2020-11-15 02:00:57,768 INFO scheduler Scheduled Job Complete: frappe.utils.password.delete_password_reset_cache for finance2.branderaa.net
+2020-11-15 02:00:57,903 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for finance2.branderaa.net
+2020-11-15 02:00:58,136 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for finance2.branderaa.net
+2020-11-15 02:00:58,271 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for finance2.branderaa.net
+2020-11-15 02:00:58,471 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for finance2.branderaa.net
+2020-11-15 02:00:58,620 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for finance2.branderaa.net
+2020-11-15 02:00:58,784 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for finance2.branderaa.net
+2020-11-15 02:00:58,920 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for finance2.branderaa.net
+2020-11-15 02:00:59,074 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for finance2.branderaa.net
+2020-11-15 02:00:59,208 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for finance2.branderaa.net
+2020-11-15 02:00:59,388 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for finance2.branderaa.net
+2020-11-15 02:00:59,530 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for finance2.branderaa.net
+2020-11-15 02:00:59,697 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for finance2.branderaa.net
+2020-11-15 02:00:59,839 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for finance2.branderaa.net
+2020-11-15 02:01:00,031 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for finance2.branderaa.net
+2020-11-15 02:01:00,185 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for finance2.branderaa.net
+2020-11-15 02:01:00,346 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for finance2.branderaa.net
+2020-11-15 02:01:00,483 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:01:00,545 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:01:00,677 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:01:00,736 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:01:00,867 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:01:00,944 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:01:01,080 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:01:01,197 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:01:01,330 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:01:01,463 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:01:01,607 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:01:01,684 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:01:01,831 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:01:02,050 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:01:02,196 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:01:02,413 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:01:02,555 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:01:02,737 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:01:53,892 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:02:54,214 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:03:54,544 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:04:54,889 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:04:54,922 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:04:55,006 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:04:55,139 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:04:55,223 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:04:55,353 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:04:55,504 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:04:55,635 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:04:55,691 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:04:55,817 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:04:55,876 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:04:56,010 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:04:56,089 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:04:56,214 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:04:56,323 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:04:56,451 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:04:56,569 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:04:56,701 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:04:56,777 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:05:55,208 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:06:55,530 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:07:55,855 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:08:56,211 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:08:56,239 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:08:56,319 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:08:56,451 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:08:56,537 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:08:56,663 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:08:56,817 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:08:56,947 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:08:57,004 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:08:57,133 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:08:57,192 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:08:57,323 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:08:57,401 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:08:57,533 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:08:57,646 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:08:57,774 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:08:57,891 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:08:58,026 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:08:58,101 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:09:56,531 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:10:56,852 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:11:57,176 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:12:57,490 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:12:57,527 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:12:57,608 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:12:57,735 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:12:57,820 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:12:57,947 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:12:58,101 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:12:58,235 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:12:58,295 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:12:58,425 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:12:58,484 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:12:58,612 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:12:58,688 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:12:58,818 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:12:58,930 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:12:59,060 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:12:59,180 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:12:59,306 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:12:59,380 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:13:57,817 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:14:58,137 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:15:58,463 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:15:58,575 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:15:58,775 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:15:58,910 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:15:59,127 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:15:59,263 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:15:59,443 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:16:58,811 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:16:58,846 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:16:58,929 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:16:59,063 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:16:59,151 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:16:59,287 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:16:59,445 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:16:59,580 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:16:59,641 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:16:59,772 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:16:59,832 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:16:59,964 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:17:00,050 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:17:00,185 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:17:00,296 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:17:00,427 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:17:00,547 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:17:00,676 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:17:00,752 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:17:59,135 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:18:59,463 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:19:59,786 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:21:00,155 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:21:00,191 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:21:00,271 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:21:00,400 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:21:00,485 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:21:00,615 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:21:00,766 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:21:00,898 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:21:00,956 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:21:01,086 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:21:01,144 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:21:01,283 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:21:01,364 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:21:01,502 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:21:01,621 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:21:01,758 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:21:01,885 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:21:02,023 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:21:02,100 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:22:00,480 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:23:00,800 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:24:01,265 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:24:01,269 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:24:01,346 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:24:01,482 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:24:01,566 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:24:01,697 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:24:01,852 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:24:01,992 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:24:02,053 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:24:02,189 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:24:02,248 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:24:02,381 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:24:02,461 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:24:02,593 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:24:02,703 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:24:02,834 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:24:02,955 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:24:03,092 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:24:03,169 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:25:01,611 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:26:01,940 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:27:02,272 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:28:02,620 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:28:02,658 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:28:02,737 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:28:02,872 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:28:02,958 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:28:03,097 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:28:03,256 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:28:03,389 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:28:03,447 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:28:03,583 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:28:03,641 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:28:03,770 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:28:03,847 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:28:03,981 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:28:04,093 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:28:04,224 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:28:04,342 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:28:04,473 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:28:04,548 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:29:02,947 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:30:03,276 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:30:03,313 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 02:30:03,566 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 02:30:03,706 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:30:03,900 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:30:04,044 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:30:04,261 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:30:04,396 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:30:04,581 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:31:03,600 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:32:03,949 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:32:03,970 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:32:04,057 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:32:04,188 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:32:04,273 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:32:04,402 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:32:04,553 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:32:04,681 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:32:04,738 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:32:04,865 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:32:04,925 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:32:05,057 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:32:05,134 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:32:05,261 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:32:05,373 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:32:05,502 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:32:05,624 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:32:05,752 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:32:05,827 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:33:04,272 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:34:04,591 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:35:04,903 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:36:05,255 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:36:05,296 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:36:05,379 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:36:05,512 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:36:05,598 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:36:05,729 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:36:05,883 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:36:06,017 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:36:06,076 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:36:06,209 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:36:06,266 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:36:06,396 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:36:06,472 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:36:06,600 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:36:06,712 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:36:06,847 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:36:06,963 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:36:07,096 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:36:07,171 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:37:05,581 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:38:05,913 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:39:06,245 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:40:06,600 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:40:06,630 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:40:06,710 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:40:06,842 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:40:06,930 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:40:07,064 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:40:07,219 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:40:07,352 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:40:07,413 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:40:07,544 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:40:07,602 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:40:07,731 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:40:07,806 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:40:07,937 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:40:08,061 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:40:08,190 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:40:08,309 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:40:08,443 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:40:08,518 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:41:06,919 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:42:07,247 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:43:07,555 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:44:07,963 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:44:07,982 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:44:08,068 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:44:08,200 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:44:08,284 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:44:08,414 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:44:08,571 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:44:08,702 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:44:08,762 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:44:08,897 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:44:08,956 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:44:09,092 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:44:09,171 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:44:09,302 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:44:09,413 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:44:09,548 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:44:09,665 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:44:09,794 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:44:09,869 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:45:08,324 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:45:08,439 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:45:08,639 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 02:45:08,780 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:45:08,999 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 02:45:09,144 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:45:09,328 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 02:46:08,642 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:47:08,966 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:48:09,333 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:48:09,355 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:48:09,438 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:48:09,572 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:48:09,661 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:48:09,795 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:48:09,951 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:48:10,094 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:48:10,154 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:48:10,284 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:48:10,344 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:48:10,480 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:48:10,557 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:48:10,689 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:48:10,799 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:48:10,929 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:48:11,050 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:48:11,183 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:48:11,277 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:49:09,658 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:50:09,980 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:51:10,319 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:52:10,667 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:52:10,709 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:52:10,790 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:52:10,924 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:52:11,015 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:52:11,152 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:52:11,308 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:52:11,439 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:52:11,499 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:52:11,630 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:52:11,690 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:52:11,826 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:52:11,910 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:52:12,047 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:52:12,160 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:52:12,290 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:52:12,411 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:52:12,548 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:52:12,628 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:53:10,995 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:54:11,320 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:55:11,642 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:56:11,982 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:56:12,004 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:56:12,086 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 02:56:12,216 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:56:12,301 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 02:56:12,430 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:56:12,581 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 02:56:12,711 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:56:12,768 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 02:56:12,898 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:56:12,955 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 02:56:13,086 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:56:13,161 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 02:56:13,291 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:56:13,404 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 02:56:13,535 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:56:13,653 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 02:56:13,782 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:56:13,857 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 02:57:12,308 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:58:12,626 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 02:59:12,949 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:00:13,325 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for finance2.branderaa.net
+2020-11-15 03:00:13,441 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:00:13,518 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for finance2.branderaa.net
+2020-11-15 03:00:13,657 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for finance2.branderaa.net
+2020-11-15 03:00:13,834 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for finance2.branderaa.net
+2020-11-15 03:00:13,981 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for finance2.branderaa.net
+2020-11-15 03:00:14,207 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for finance2.branderaa.net
+2020-11-15 03:00:14,346 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for finance2.branderaa.net
+2020-11-15 03:00:14,595 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for finance2.branderaa.net
+2020-11-15 03:00:14,736 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for finance2.branderaa.net
+2020-11-15 03:00:14,983 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for finance2.branderaa.net
+2020-11-15 03:00:15,129 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for finance2.branderaa.net
+2020-11-15 03:00:15,320 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for finance2.branderaa.net
+2020-11-15 03:00:15,459 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for finance2.branderaa.net
+2020-11-15 03:00:15,636 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for finance2.branderaa.net
+2020-11-15 03:00:15,783 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for finance2.branderaa.net
+2020-11-15 03:00:15,967 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for finance2.branderaa.net
+2020-11-15 03:00:16,108 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for finance2.branderaa.net
+2020-11-15 03:00:16,277 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for finance2.branderaa.net
+2020-11-15 03:00:16,414 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:00:16,501 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:00:16,630 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:00:16,715 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:00:16,844 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:00:16,995 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:00:17,129 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 03:00:17,393 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 03:00:17,537 INFO scheduler Scheduled Job Start: frappe.utils.password.delete_password_reset_cache for finance2.branderaa.net
+2020-11-15 03:00:17,691 INFO scheduler Scheduled Job Complete: frappe.utils.password.delete_password_reset_cache for finance2.branderaa.net
+2020-11-15 03:00:17,828 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for finance2.branderaa.net
+2020-11-15 03:00:18,056 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for finance2.branderaa.net
+2020-11-15 03:00:18,200 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for finance2.branderaa.net
+2020-11-15 03:00:18,406 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for finance2.branderaa.net
+2020-11-15 03:00:18,601 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for finance2.branderaa.net
+2020-11-15 03:00:18,767 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for finance2.branderaa.net
+2020-11-15 03:00:18,910 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for finance2.branderaa.net
+2020-11-15 03:00:19,067 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for finance2.branderaa.net
+2020-11-15 03:00:19,206 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for finance2.branderaa.net
+2020-11-15 03:00:19,387 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for finance2.branderaa.net
+2020-11-15 03:00:19,527 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for finance2.branderaa.net
+2020-11-15 03:00:19,701 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for finance2.branderaa.net
+2020-11-15 03:00:19,841 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for finance2.branderaa.net
+2020-11-15 03:00:20,010 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for finance2.branderaa.net
+2020-11-15 03:00:20,153 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for finance2.branderaa.net
+2020-11-15 03:00:20,313 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for finance2.branderaa.net
+2020-11-15 03:00:20,448 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:00:20,507 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:00:20,642 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:00:20,701 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:00:20,833 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:00:20,908 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:00:21,043 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:00:21,157 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:00:21,290 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:00:21,408 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:00:21,541 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:00:21,617 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:00:21,743 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:00:21,944 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:00:22,081 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:00:22,324 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:00:22,464 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:00:22,647 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:01:13,765 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:02:14,088 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:03:14,409 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:04:14,760 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:04:14,776 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:04:14,855 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:04:14,985 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:04:15,074 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:04:15,204 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:04:15,362 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:04:15,490 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:04:15,548 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:04:15,676 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:04:15,735 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:04:15,862 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:04:15,938 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:04:16,068 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:04:16,178 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:04:16,307 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:04:16,425 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:04:16,557 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:04:16,632 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:05:15,085 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:06:15,406 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:07:15,724 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:08:16,059 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:08:16,099 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:08:16,180 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:08:16,308 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:08:16,393 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:08:16,528 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:08:16,678 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:08:16,806 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:08:16,863 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:08:16,990 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:08:17,046 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:08:17,173 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:08:17,248 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:08:17,380 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:08:17,493 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:08:17,626 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:08:17,743 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:08:17,871 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:08:17,944 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:09:16,386 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:10:16,726 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:11:17,050 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:12:17,394 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:12:17,416 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:12:17,495 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:12:17,623 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:12:17,707 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:12:17,838 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:12:17,988 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:12:18,118 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:12:18,176 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:12:18,303 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:12:18,362 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:12:18,491 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:12:18,568 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:12:18,698 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:12:18,809 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:12:18,938 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:12:19,058 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:12:19,185 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:12:19,260 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:13:17,716 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:14:18,038 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:15:18,371 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:15:18,483 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:15:18,675 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:15:18,813 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:15:19,027 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:15:19,164 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:15:19,343 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:16:18,712 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:16:18,744 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:16:18,823 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:16:18,950 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:16:19,032 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:16:19,157 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:16:19,307 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:16:19,441 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:16:19,499 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:16:19,625 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:16:19,683 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:16:19,820 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:16:19,895 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:16:20,022 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:16:20,131 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:16:20,258 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:16:20,375 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:16:20,506 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:16:20,581 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:17:19,032 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:18:19,353 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:19:19,678 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:20:20,022 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:20:20,047 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:20:20,129 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:20:20,259 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:20:20,344 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:20:20,472 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:20:20,624 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:20:20,754 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:20:20,813 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:20:20,943 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:20:21,002 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:20:21,132 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:20:21,207 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:20:21,337 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:20:21,448 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:20:21,578 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:20:21,698 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:20:21,829 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:20:21,905 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:21:20,345 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:22:20,667 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:23:20,992 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:24:21,341 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:24:21,379 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:24:21,460 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:24:21,588 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:24:21,675 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:24:21,802 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:24:21,956 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:24:22,089 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:24:22,146 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:24:22,272 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:24:22,328 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:24:22,461 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:24:22,539 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:24:22,667 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:24:22,778 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:24:22,906 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:24:23,027 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:24:23,155 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:24:23,232 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:25:21,664 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:26:21,983 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:27:22,309 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:28:22,662 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:28:22,675 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:28:22,756 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:28:22,886 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:28:22,970 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:28:23,101 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:28:23,253 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:28:23,381 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:28:23,439 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:28:23,566 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:28:23,624 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:28:23,752 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:28:23,829 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:28:23,959 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:28:24,071 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:28:24,198 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:28:24,315 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:28:24,442 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:28:24,518 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:29:22,975 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:30:23,308 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:30:23,351 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 03:30:23,606 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for finance2.branderaa.net
+2020-11-15 03:30:23,744 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:30:23,940 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for finance2.branderaa.net
+2020-11-15 03:30:24,080 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:30:24,296 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for finance2.branderaa.net
+2020-11-15 03:30:24,434 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:30:24,616 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for finance2.branderaa.net
+2020-11-15 03:31:23,630 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:32:23,993 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:32:24,030 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:32:24,113 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for finance2.branderaa.net
+2020-11-15 03:32:24,252 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:32:24,342 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for finance2.branderaa.net
+2020-11-15 03:32:24,474 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:32:24,626 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for finance2.branderaa.net
+2020-11-15 03:32:24,757 INFO scheduler Scheduled Job Start: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:32:24,814 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for finance2.branderaa.net
+2020-11-15 03:32:24,945 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:32:25,005 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for finance2.branderaa.net
+2020-11-15 03:32:25,136 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:32:25,214 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for finance2.branderaa.net
+2020-11-15 03:32:25,344 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:32:25,454 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for finance2.branderaa.net
+2020-11-15 03:32:25,582 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:32:25,701 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-15 03:32:25,829 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:32:25,906 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-15 03:33:24,318 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:34:24,640 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:35:24,977 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:36:25,331 DEBUG scheduler Queued events for site finance2.branderaa.net
+2020-11-15 03:37:25,655 DEBUG scheduler Queued events for site finance2.branderaa.net

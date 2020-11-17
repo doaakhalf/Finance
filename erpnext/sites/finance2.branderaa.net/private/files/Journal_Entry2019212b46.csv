@@ -1,0 +1,416 @@
+Entry Type,Series,Company,Posting Date,,,Account (Accounting Entries),Credit (Accounting Entries),Debit (Accounting Entries),Cost Center (Accounting Entries),Party Type (Accounting Entries),Party (Accounting Entries)
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-01,2010103,Branderaa,2010103 - Branderaa - B,5200,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5200,Main - B,Customer,Guest
+,,,,1010313,Biotech Gulf Cosmoceutical Company,1010313 - Biotech Gulf Cosmoceutical Company - B,0,21735,Main - B,Customer,Guest
+,,,,2010302,VAT on Purchasing,2010302 - VAT on Purchasing - B,0,714.29,Main - B,Customer,Guest
+,,,,2010104,Aliaf Lighting Est.,2010104 - Aliaf Lighting Est. - B,15000,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1035,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,20700,0,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0,14285.71,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,7400,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,7400,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,431.04,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0.07,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,424.86,0,Main - B,Customer,Guest
+,,,,5030401,Communication,5030401 - Communication - B,0,855.97,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-02,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,15000,0,Main - B,Customer,Guest
+,,,,2010104,Aliaf Lighting Est.,2010104 - Aliaf Lighting Est. - B,0,15000,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,420750,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,36.6,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,420750,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,36.6,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,2171.4,0,Main - B,Customer,Guest
+,,,,5030102,GOSI,5030102 - GOSI - B,0,2171.4,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,11000,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,5000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,16000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-03,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,800,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,800,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,420000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,420000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,4800,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,4800,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-09,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,11550,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,11550,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,11550,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,11550,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-22,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,33705,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1605,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,32100,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-23,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,33700,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,33700,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-24,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,21735,Main - B,Customer,Guest
+,,,,1010313,Biotech Gulf Cosmoceutical Company,1010313 - Biotech Gulf Cosmoceutical Company - B,21735,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,33705,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,33705,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,250,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,250,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,21200,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,21200,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,25,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1.25,0,Main - B,Customer,Guest
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B,0,26.25,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,1.25,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,25,0,Main - B,Customer,Guest
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B,0,26.25,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-01-31,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,11550,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,550,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,11000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-01,2010103,Branderaa,2010103 - Branderaa - B,4100,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,4100,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-02,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,457958,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,457958,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-03,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,200,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,200,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,1700,Main - B,Customer,Guest
+,,,,1010301,Mazin bin AbdulWahhab Kurdi Law Firm,1010301 - Mazin bin AbdulWahhab Kurdi Law Firm - B,0,1700,Main - B,Customer,Guest
+,,,,1010301,Mazin bin AbdulWahhab Kurdi Law Firm,1010301 - Mazin bin AbdulWahhab Kurdi Law Firm - B,1700,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,80.95,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,1619.05,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-05,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1700,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,1700,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-06,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,14540.82,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,14540.82,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,4500,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,4500,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-20,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,100,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,100,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,200,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,200,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-25,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,11550,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,11550,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-26,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,37695,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1795,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,35900,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,11550,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,41212.5,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,11550,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1962.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,39250,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-02-28,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,14540.82,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,692.42,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,13848.4,0,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,11550,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,550,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,11000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-01,2010103,Branderaa,2010103 - Branderaa - B,3500,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3500,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-03,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,78907.5,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,37695,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,41212.5,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,1000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,1000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,5000,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,5000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-04,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,67900,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,67900,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,67900,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,67900,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-18,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,40267.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1917.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,38350,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,38640,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1840,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,36800,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-19,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,78907.5,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,40267.5,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,38640,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,69036.15,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,69036.15,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,68400,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,68400,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,1407.6,0,Main - B,Customer,Guest
+,,,,5030102,GOSI,5030102 - GOSI - B,0,1407.6,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,8500,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,8500,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-20,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,650,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,650,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-27,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,67830,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,3230,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,64600,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-03-31,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-01,2010103,Branderaa,2010103 - Branderaa - B,3700,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3700,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,67830,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,67830,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,640.55,0,Main - B,Customer,Guest
+,,,,5030401,Communication,5030401 - Communication - B,0,640.55,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,5500,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,5500,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-02,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,29415.75,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1400.75,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,28015,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,61600,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,61600,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,52762.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,2512.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,50250,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,38403.75,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1828.75,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,36575,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,21315,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1015,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,20300,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,4966.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,236.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,4730,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-03,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1600,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,1600,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,60000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,60000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-04,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,130000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,146863.5,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,130000,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,52762.5,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,38403.75,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,21315,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,4966.5,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,29415.75,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,130000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,130000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,703.8,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,1173.9,0,Main - B,Customer,Guest
+,,,,5030102,GOSI,5030102 - GOSI - B,0,703.8,Main - B,Customer,Guest
+,,,,5030104,Medical Insurance,5030104 - Medical Insurance - B,0,1173.9,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,5000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,5000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-09,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,50,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,50,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-10,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,16571,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,16571,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,16500,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,16500,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-14,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,29767.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1417.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,28350,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-15,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,141435,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,6735,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,134700,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,242707.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,11557.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,231150,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-16,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,413900,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,413910,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,413900,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,141435,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,29767.5,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,242707.5,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,373255,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,373255,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1150,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,6610,0,Main - B,Customer,Guest
+,,,,5030105,IQ & Work Permit,5030105 - IQ & Work Permit - B,0,5000,Main - B,Customer,Guest
+,,,,5030105,IQ & Work Permit,5030105 - IQ & Work Permit - B,0,2760,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-18,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-20,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,20000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,20000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-21,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1155,0,Main - B,Customer,Guest
+,,,,5030503,Licenses and Subscriptions,5030503 - Licenses and Subscriptions - B,0,1155,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-23,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,1800,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,1800,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-24,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,61162.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,2912.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,58250,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-25,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,61150,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,61150,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,61162.5,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,61162,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0.5,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,5800,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,5800,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-28,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,55350,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,55350,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-04-30,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,16571,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,789.1,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,15781.9,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-01,2010103,Branderaa,2010103 - Branderaa - B,3500,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3500,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,12.35,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,12.35,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,60,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,60,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-05,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,24990,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,24990,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,36750,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1750,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,35000,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,27405,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1305,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,26100,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-06,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,53025,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,2525,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,50500,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,102375,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,4875,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,97500,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,4900,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,4900,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-07,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,219555,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,102375,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,53025,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,36750,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,27405,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,195900,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,195900,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,10000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10000,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,6000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,6000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-08,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,195900,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,195900,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-09,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,6000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,6000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-10,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,1600,0,Main - B,Customer,Guest
+,,,,1010404,Other Receivable,1010404 - Other Receivable - B,0,1600,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-12,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,90,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,90,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,6100,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,6100,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-19,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,52447.5,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,2497.5,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,49950,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,0,42000,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,2000,0,Main - B,Customer,Guest
+,,,,4010101,Revenue - Construction,4010101 - Revenue - Construction - B,40000,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-21,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,0,94447.5,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,52447.5,0,Main - B,Customer,Guest
+,,,,1010314,Al Majal Service Master Co.,1010314 - Al Majal Service Master Co. - B,42000,0,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,10250,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,10250,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-22,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,84200,Main - B,Customer,Guest
+,,,,1010202,Bank - 14365306000110,1010202 - Bank - 14365306000110 - B,84200,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,84200,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,84200,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-05-31,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,24990,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,1190,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,23800,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-06-01,2010103,Branderaa,2010103 - Branderaa - B,4000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,4000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-06-09,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,0,18900,Main - B,Customer,Guest
+,,,,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,18900,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-06-10,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B,12900,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,0,12900,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-06-30,1010302,Noura Pharmacy,1010302 - Noura Pharmacy - B,0,18900,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,2010301,VAT on Sales,2010301 - VAT on Sales - B,900,0,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B,18000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,2000,0,Main - B,Customer,Guest
+,,,,5020201,Commission Exp,5020201 - Commission Exp - B,0,2000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,950000,0,Main - B,Customer,Guest
+,,,,5010101,Cost of Goods Sold,5010101 - Cost of Goods Sold - B,0,950000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-07-01,2010103,Branderaa,2010103 - Branderaa - B,3400,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3400,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-07-16,1010101,Cash Box,1010101 - Cash Box - B,0,1600,Main - B,Customer,Guest
+,,,,1010404,Other Receivable,1010404 - Other Receivable - B,1600,0,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-07-31,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-08-01,2010103,Branderaa,2010103 - Branderaa - B,3000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-08-31,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-09-01,2010103,Branderaa,2010103 - Branderaa - B,3000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-09-30,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-10-01,2010103,Branderaa,2010103 - Branderaa - B,3000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-10-31,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-11-01,2010103,Branderaa,2010103 - Branderaa - B,3000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-11-30,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-12-01,2010103,Branderaa,2010103 - Branderaa - B,3000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,3000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2019-12-31,1010102,Petty Cash,1010102 - Petty Cash - B,15000,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,5000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,10000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B,19000,0,Main - B,Customer,Guest
+,,,,5030101,Basic Salary,5030101 - Basic Salary - B,0,8000,Main - B,Customer,Guest
+,,,,5010301,Salaries & Wages,5010301 - Salaries & Wages - B,0,4000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B,0,7000,Main - B,Customer,Guest

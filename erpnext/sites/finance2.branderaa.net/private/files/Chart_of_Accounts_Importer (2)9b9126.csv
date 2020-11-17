@@ -1,0 +1,132 @@
+Account Name,Parent Account,Account Number,Is Group,Account Type,Root Type
+Application of Funds (Assets) - B,,1000000,1,,Asset
+Current Assets- B,Application of Funds (Assets) - B,1010000,1,,Asset
+Cash Accounts,Current Assets- B,1010100,1,Cash,Asset
+Cash Box,Cash Accounts,1010101,0,Cash,Asset
+Petty Cash,Cash Accounts,1010102,0,Cash,Asset
+Bank Accounts,Current Assets- B,1010200,1,Bank,Asset
+Bank - 11771004000101,Bank Accounts,1010201,0,Bank,Asset
+Bank - 14365306000110,Bank Accounts,1010202,0,Bank,Asset
+Accounts Receivable,Current Assets- B,1010300,1,Receivable,Asset
+Mazin bin AbdulWahhab Kurdi Law Firm,Accounts Receivable,1010301,0,Receivable,Asset
+Noura Pharmacy,Accounts Receivable,1010302,0,Receivable,Asset
+Dijon,Accounts Receivable,1010303,0,Receivable,Asset
+Al-Masah,Accounts Receivable,1010304,0,Receivable,Asset
+Dar Al-Teb,Accounts Receivable,1010305,0,Receivable,Asset
+Ajwaa Al-Khayal,Accounts Receivable,1010306,0,Receivable,Asset
+Defense,Accounts Receivable,1010307,0,Receivable,Asset
+Al-Mazra3a,Accounts Receivable,1010308,0,Receivable,Asset
+Technical Company For Paints Works,Accounts Receivable,1010309,0,Receivable,Asset
+Comprehensive preventive maintenance,Accounts Receivable,1010310,0,Receivable,Asset
+Mawakeb Al-Amjad,Accounts Receivable,1010311,0,Receivable,Asset
+Red Door,Accounts Receivable,1010312,0,Receivable,Asset
+Biotech Gulf Cosmoceutical Company,Accounts Receivable,1010313,0,Receivable,Asset
+Al Majal Service Master Co.,Accounts Receivable,1010314,0,Receivable,Asset
+AKNAF ALKHALEEJ MEDICAL,Accounts Receivable,1010315,0,Receivable,Asset
+Prepayments and other receivables,Current Assets- B,1010400,1,Receivable,Asset
+Prepaid Expenses - Rent,Prepayments and other receivables,1010401,0,Receivable,Asset
+Prepaid Expenses - Subscriptions,Prepayments and other receivables,1010402,0,Receivable,Asset
+Deposit Rent Insurance ,Prepayments and other receivables,1010403,0,Receivable,Asset
+Other Receivable,Prepayments and other receivables,1010404,0,Receivable,Asset
+Stock Assets,Current Assets- B,1010500,1,Stock,Asset
+Stock on Hand,Stock Assets,1010501,1,Stock,Asset
+Due from Related Parties,Current Assets- B,1010600,1,Receivable,Asset
+Due from Related Parties - Se7rek,Due from Related Parties,1010601,0,Receivable,Asset
+Fixed Assets - B,Application of Funds (Assets) - B,1020000,1,,Asset
+Asset Cost,Fixed Assets - B,1020100,1,Fixed Asset,Asset
+Leasehold Improvements,Asset Cost,1020101,0,Fixed Asset,Asset
+Office Furniture & Fixtures,Asset Cost,1020102,0,Fixed Asset,Asset
+Asset Accumulated Depreciation,Fixed Assets - B,1020200,1,Accumulated Depreciation,Asset
+Accumulated Depreciation - Leasehold Improvements,Asset Accumulated Depreciation,1020201,0,Accumulated Depreciation,Asset
+Accumulated Depreciation - Office Furniture & Fixtures,Asset Accumulated Depreciation,1020202,0,Accumulated Depreciation,Asset
+Investments - B,Application of Funds (Assets) - B,1030000,0,,Asset
+Temporary Accounts - B,Application of Funds (Assets) - B,1040000,0,,Asset
+Source of Funds (Liabilities) - B,,2000000,1,,Liability
+Current Liabilities,Source of Funds (Liabilities) - B,2010000,1,,Liability
+Accounts Payable,Current Liabilities,2010100,1,Payable,Liability
+Kadour trading Est.,Accounts Payable,2010101,0,Payable,Liability
+Medicine Wing for Trading Co.,Accounts Payable,2010102,0,Payable,Liability
+Branderaa,Accounts Payable,2010103,0,Payable,Liability
+Aliaf Lighting Est.,Accounts Payable,2010104,0,Payable,Liability
+Al Ghdeer al Naqueea,Accounts Payable,2010105,0,Payable,Liability
+Cigalah Group,Accounts Payable,2010106,0,Payable,Liability
+Shhnaty Co.,Accounts Payable,2010107,0,Payable,Liability
+PAYFORT Online Payment,Accounts Payable,2010108,0,Payable,Liability
+Rawaj Global trading Company (Global Noura),Accounts Payable,2010109,0,Payable,Liability
+Noura Pharmacy,Accounts Payable,2010110,0,Payable,Liability
+Accruals and Other Payable,Current Liabilities,2010200,1,Payable,Liability
+Accrued Salaries & Wages,Accruals and Other Payable,2010201,0,Payable,Liability
+Accrued -Penalty,Accruals and Other Payable,2010202,0,Payable,Liability
+VAT,Current Liabilities,2010300,1,Tax,Liability
+VAT on Sales,VAT,2010301,0,Tax,Liability
+VAT on Purchasing,VAT,2010302,0,Tax,Liability
+Due VAT,VAT,2010303,0,Tax,Liability
+Accrued Zakat,Current Liabilities,2010400,1,Payable,Liability
+Accrued Zakat,Accrued Zakat,2010401,0,Payable,Liability
+Due to Related Party,Current Liabilities,2010500,1,Payable,Liability
+Due to Related Paries - Ahmed Metwally,Due to Related Party,2010501,0,Payable,Liability
+Non-current Liabilities,Source of Funds (Liabilities) - B,2020000,1,,Liability
+EOS,Non-current Liabilities,2020100,1,Payable,Liability
+EOS,EOS,2020101,0,Payable,Liability
+Equity - B,,3000000,1,,Equity
+Capital,Equity - B,3010100,1,Equity,Equity
+Capital - Rakan,Capital,3010101,0,Equity,Equity
+Capital - Saleh,Capital,3010102,0,Equity,Equity
+Owner Current Account,Equity - B,3020100,1,Equity,Equity
+Owners' Current Accounts - Rakan,Owner Current Account,3020101,0,Equity,Equity
+Retained Earnings ,Equity - B,3030100,1,Equity,Equity
+Retained Earnings ,Retained Earnings ,3030101,0,Equity,Equity
+Income - B,,4000000,1,,Income
+Direct Income,Income - B,4010000,1,Income Account,Income
+Sales,Direct Income,4010100,1,Income Account,Income
+Revenue - Construction,Sales,4010101,0,Income Account,Income
+Revenue - Branderaa,Sales,4010102,0,Income Account,Income
+Revenue - Se7rek,Sales,4010103,0,Income Account,Income
+Indirect Income,Income - B,4020000,0,Income Account,Income
+Expenses - B,,5000000,1,,Expense
+Direct Cost,Expenses - B,5010000,1,Cost of Goods Sold,Expense
+ Stock Expenses ,Direct Cost,5010100,1,Cost of Goods Sold,Expense
+Cost of Goods Sold, Stock Expenses ,5010101,0,Cost of Goods Sold,Expense
+ Delivery and Packing,Direct Cost,5010200,0,Cost of Goods Sold,Expense
+Delivery Cost, Delivery and Packing,5010201,0,Cost of Goods Sold,Expense
+Packing Cost, Delivery and Packing,5010202,0,Cost of Goods Sold,Expense
+Manpower Cost,Direct Cost,5010300,0,Cost of Goods Sold,Expense
+Salaries & Wages,Manpower Cost,5010301,0,Cost of Goods Sold,Expense
+Subcontractors expenses,Direct Cost,5010400,0,Cost of Goods Sold,Expense
+Subcontractors expenses,Subcontractors expenses,5010401,0,Cost of Goods Sold,Expense
+Selling Expenses,Expenses - B,5020000,1,,Expense
+Marketing Exp,Selling Expenses,5020100,1,Expense Account,Expense
+Marketing Exp,Marketing Exp,5020101,0,Expense Account,Expense
+Commission Exp,Selling Expenses,5020200,0,Expense Account,Expense
+Commission Exp,Commission Exp,5020201,0,Expense Account,Expense
+General and Adminstration ,Expenses - B,5030000,1,,Expense
+Manpower Cost,General and Adminstration ,5030100,1,Expense Account,Expense
+Basic Salary,Manpower Cost,5030101,0,Expense Account,Expense
+GOSI,Manpower Cost,5030102,0,Expense Account,Expense
+EOS EXP,Manpower Cost,5030103,0,Expense Account,Expense
+Medical Insurance,Manpower Cost,5030104,0,Expense Account,Expense
+IQ & Work Permit,Manpower Cost,5030105,0,Expense Account,Expense
+Management Fees,Manpower Cost,5030106,0,Expense Account,Expense
+Rent,General and Adminstration ,5030200,1,Expense Account,Expense
+Rent Car,Rent,5030201,0,Expense Account,Expense
+Rent Office,Rent,5030202,0,Expense Account,Expense
+Depreciation,General and Adminstration ,5030300,1,Depreciation,Expense
+Depreciation-Lease,Depreciation,5030301,0,Depreciation,Expense
+Depreciation-Furniture,Depreciation,5030302,0,Depreciation,Expense
+Utilities and energy,General and Adminstration ,5030400,1,Expense Account,Expense
+Communication,Utilities and energy,5030401,0,Expense Account,Expense
+Electricity & Water,Utilities and energy,5030402,0,Expense Account,Expense
+Post,Utilities and energy,5030403,0,Expense Account,Expense
+Miscellaneous expenses,General and Adminstration ,5030500,1,Expense Account,Expense
+Hospitality,Miscellaneous expenses,5030501,0,Expense Account,Expense
+Business trip,Miscellaneous expenses,5030502,0,Expense Account,Expense
+Licenses and Subscriptions,Miscellaneous expenses,5030503,0,Expense Account,Expense
+Stationery,Miscellaneous expenses,5030504,0,Expense Account,Expense
+Licenses and Subscriptions,Miscellaneous expenses,5030505,0,Expense Account,Expense
+Maintenance,Miscellaneous expenses,5030506,0,Expense Account,Expense
+Consumable tools,Miscellaneous expenses,5030507,0,Expense Account,Expense
+Penalty Exp,Miscellaneous expenses,5030508,0,Expense Account,Expense
+Bank Fees,Miscellaneous expenses,5030509,0,Expense Account,Expense
+Cleaning expenses,Miscellaneous expenses,5030510,0,Expense Account,Expense
+Initial cost,Miscellaneous expenses,5030511,0,Expense Account,Expense
+Stock Expenses ,Expenses - B,5040000,0,Stock Adjustment,Expense

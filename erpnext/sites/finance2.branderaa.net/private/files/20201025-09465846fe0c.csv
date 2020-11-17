@@ -1,0 +1,3 @@
+Item Code ,End of Life,Description ,Disabled,Item Name,	Item Group,	Default Unit of Measure, Include Item In Manufacturing,	Opening Stock,Maintain Stock,Brand,	Valuation Rate,Standard Selling Rate,Valuation Method,Minimum Order Qty	,Is Purchase Item,Safety Stock,	Is Sales Item,ID (Item Defaults),Default Warehouse (Item Defaults)	,Default Price List (Item Defaults),Company (Item Defaults)
+63920719,2099-12-31,,0,product1,cat1,Unit,1,20,1,FOLTENE,6,4,FIFO,1,1,2,1,1,Stores - B,Standard Buying,Branderaa
+39081661,2099-12-31,,0,product2,cat1,Unit,1,20,1,HP,19,10,FIFO,1,1,3,1,1,Stores - B,Standard Buying,Branderaa

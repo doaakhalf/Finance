@@ -1,0 +1,917 @@
+2020-10-19 11:16:14,531 DEBUG cd erpnext && /usr/local/bin/virtualenv -q env -p python3
+2020-10-19 11:16:15,224 LOG Getting app frappe
+2020-10-19 11:16:15,224 DEBUG cd erpnext/apps && git clone https://github.com/frappe/frappe.git  --depth 1 --origin upstream
+2020-10-19 11:16:18,943 LOG installing frappe
+2020-10-19 11:16:18,943 DEBUG erpnext/env/bin/pip install -q -U -e erpnext/apps/frappe 
+2020-10-19 11:16:46,237 DEBUG cd erpnext/apps/frappe && yarn install
+2020-10-19 11:17:14,899 DEBUG cd erpnext/apps/frappe && yarn install
+2020-10-19 11:17:19,632 DEBUG cd erpnext && bench build
+2020-10-19 11:17:20,093 INFO /usr/local/bin/bench build
+2020-10-19 11:17:20,094 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:17:26,158 LOG setting up backups
+2020-10-19 11:17:26,179 INFO Bench erpnext initialized
+2020-10-19 11:18:12,035 INFO /usr/local/bin/bench new-site finance.branderaa.net
+2020-10-19 11:18:12,035 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:20:24,817 INFO /usr/local/bin/bench new-site finance.branderaa.net
+2020-10-19 11:20:24,818 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:21:01,564 INFO /usr/local/bin/bench new-site finance.branderaa.net
+2020-10-19 11:21:01,565 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:03,778 INFO /usr/local/bin/bench start
+2020-10-19 11:22:03,778 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:05,733 INFO /usr/local/bin/bench watch
+2020-10-19 11:22:05,749 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:05,805 INFO /usr/local/bin/bench schedule
+2020-10-19 11:22:05,805 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:05,861 INFO /usr/local/bin/bench serve --port 8000
+2020-10-19 11:22:05,862 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:05,867 INFO /usr/local/bin/bench worker --queue short
+2020-10-19 11:22:05,867 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:05,987 INFO /usr/local/bin/bench worker --queue long
+2020-10-19 11:22:05,987 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:22:06,022 INFO /usr/local/bin/bench worker --queue default
+2020-10-19 11:22:06,023 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:43,262 INFO /usr/local/bin/bench start
+2020-10-19 11:25:43,264 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,273 INFO /usr/local/bin/bench worker --queue default
+2020-10-19 11:25:45,273 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,295 INFO /usr/local/bin/bench schedule
+2020-10-19 11:25:45,295 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,303 INFO /usr/local/bin/bench serve --port 8000
+2020-10-19 11:25:45,303 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,303 INFO /usr/local/bin/bench worker --queue long
+2020-10-19 11:25:45,313 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,374 INFO /usr/local/bin/bench watch
+2020-10-19 11:25:45,375 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:25:45,410 INFO /usr/local/bin/bench worker --queue short
+2020-10-19 11:25:45,411 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:26:09,822 INFO /usr/local/bin/bench setup production erpnext
+2020-10-19 11:26:09,823 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:26:09,831 LOG Updated supervisord.conf: 'chown' changed from 'frappe:frappe' to 'erpnext:erpnext'
+2020-10-19 11:26:19,299 WARNING /usr/local/bin/bench setup production erpnext executed with exit code 1
+2020-10-19 11:26:54,986 INFO /usr/local/bin/bench setup production frappe
+2020-10-19 11:26:54,987 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:26:54,989 LOG supervisord.conf not updated
+2020-10-19 11:26:55,033 DEBUG /usr/bin/supervisorctl reread
+2020-10-19 11:26:55,526 DEBUG /usr/bin/supervisorctl update
+2020-10-19 11:26:55,762 DEBUG sudo /usr/sbin/nginx -t
+2020-10-19 11:26:55,890 DEBUG sudo systemctl reload nginx
+2020-10-19 11:37:27,128 INFO /usr/local/bin/bench new-site finance2.branderaa.net --mariadb-root-password root --admin-password admin123456 --install-app erpnext --verbose --force
+2020-10-19 11:37:27,128 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:38:49,208 INFO /usr/local/bin/bench get-app erpnext https://github.com/frappe/erpnext
+2020-10-19 11:38:49,208 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:38:49,214 LOG Getting app erpnext
+2020-10-19 11:38:49,214 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2020-10-19 11:38:56,441 LOG installing erpnext
+2020-10-19 11:38:56,442 DEBUG ./env/bin/pip install -q -U -e ./apps/erpnext 
+2020-10-19 11:39:09,193 DEBUG cd ./apps/erpnext && yarn install
+2020-10-19 11:39:19,782 DEBUG bench build --app erpnext
+2020-10-19 11:39:20,216 INFO /usr/local/bin/bench build --app erpnext
+2020-10-19 11:39:20,216 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:39:37,377 DEBUG supervisorctl restart erpnext-workers: erpnext-web:
+2020-10-19 11:40:17,688 INFO /usr/local/bin/bench new-site finance2.branderaa.net --mariadb-root-password root --admin-password admin123456 --install-app erpnext --verbose --force
+2020-10-19 11:40:17,688 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:43:31,851 INFO /usr/local/bin/bench setup production frappe
+2020-10-19 11:43:31,852 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:43:31,854 LOG supervisord.conf not updated
+2020-10-19 11:43:39,595 DEBUG /usr/bin/supervisorctl reread
+2020-10-19 11:43:39,821 DEBUG /usr/bin/supervisorctl update
+2020-10-19 11:43:40,046 DEBUG sudo /usr/sbin/nginx -t
+2020-10-19 11:43:40,079 DEBUG sudo systemctl reload nginx
+2020-10-19 11:58:36,406 INFO /usr/local/bin/bench setup production frappe
+2020-10-19 11:58:36,408 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:58:36,415 LOG supervisord.conf not updated
+2020-10-19 11:58:50,960 DEBUG /usr/bin/supervisorctl reread
+2020-10-19 11:58:51,191 DEBUG /usr/bin/supervisorctl update
+2020-10-19 11:58:53,909 DEBUG sudo /usr/sbin/nginx -t
+2020-10-19 11:58:53,943 DEBUG sudo systemctl reload nginx
+2020-10-19 11:58:56,449 INFO /usr/local/bin/bench schedule
+2020-10-19 11:58:56,450 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:58:56,458 INFO /usr/local/bin/bench worker --queue long
+2020-10-19 11:58:56,459 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:58:56,577 INFO /usr/local/bin/bench worker --queue default
+2020-10-19 11:58:56,577 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 11:58:56,619 INFO /usr/local/bin/bench worker --queue short
+2020-10-19 11:58:56,619 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:00:03,402 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-19 12:00:03,402 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:10:06,111 INFO /home/frappe/.local/bin/bench --site mysite.local serve
+2020-10-19 12:10:06,111 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:10:28,964 INFO /home/frappe/.local/bin/bench --site finance2.branderaa.net serve
+2020-10-19 12:10:28,965 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:11:37,526 INFO /home/frappe/.local/bin/bench use finance2.branderaa.net
+2020-10-19 12:11:37,526 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:12:38,686 INFO /home/frappe/.local/bin/bench migrate
+2020-10-19 12:12:38,686 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:24:39,653 INFO /home/frappe/.local/bin/bench setup procfile
+2020-10-19 12:24:39,654 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:31:42,147 INFO /usr/local/bin/bench schedule
+2020-10-19 12:31:42,147 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:31:42,156 INFO /usr/local/bin/bench worker --queue default
+2020-10-19 12:31:42,156 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:31:42,173 INFO /usr/local/bin/bench worker --queue long
+2020-10-19 12:31:42,174 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:31:42,184 INFO /usr/local/bin/bench worker --queue short
+2020-10-19 12:31:42,185 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 12:43:19,697 INFO /home/frappe/.local/bin/bench set-nginx-port finance2.branderaa.net 8004
+2020-10-19 12:43:19,697 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-19 18:00:03,450 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-19 18:00:03,451 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-20 00:00:03,043 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-20 00:00:03,043 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-20 06:00:03,148 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-20 06:00:03,149 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-20 12:00:02,763 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-20 12:00:02,763 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-20 18:00:03,216 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-20 18:00:03,216 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-21 00:00:03,001 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-21 00:00:03,001 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-21 06:00:02,601 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-21 06:00:02,611 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-21 12:00:02,829 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-21 12:00:02,829 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-21 18:00:03,111 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-21 18:00:03,111 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-22 00:00:03,649 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-22 00:00:03,649 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-22 06:00:02,985 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-22 06:00:02,986 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-22 12:00:03,429 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-22 12:00:03,430 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-22 18:00:02,916 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-22 18:00:02,916 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-23 00:00:03,468 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-23 00:00:03,468 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-23 06:00:03,146 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-23 06:00:03,147 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-23 12:00:03,265 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-23 12:00:03,266 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-23 18:00:03,145 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-23 18:00:03,145 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-24 00:00:03,269 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-24 00:00:03,283 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-24 06:00:02,738 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-24 06:00:02,738 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-24 12:00:02,833 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-24 12:00:02,833 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-24 18:00:03,359 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-24 18:00:03,359 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-25 00:00:03,045 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-25 00:00:03,045 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-25 06:00:02,524 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-25 06:00:02,524 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-25 12:00:02,424 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-25 12:00:02,425 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-25 18:00:03,157 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-25 18:00:03,158 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 00:00:03,712 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-26 00:00:03,713 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 06:00:02,795 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-26 06:00:02,795 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 12:00:03,141 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-26 12:00:03,142 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 18:00:03,425 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-26 18:00:03,425 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 22:39:42,793 INFO /usr/local/bin/bench worker --queue default
+2020-10-26 22:39:42,798 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 22:39:42,907 INFO /usr/local/bin/bench worker --queue long
+2020-10-26 22:39:42,907 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 22:39:42,969 INFO /usr/local/bin/bench schedule
+2020-10-26 22:39:42,969 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 22:39:43,004 INFO /usr/local/bin/bench worker --queue short
+2020-10-26 22:39:43,004 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 23:06:44,078 INFO /usr/local/bin/bench worker --queue default
+2020-10-26 23:06:44,087 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 23:06:44,077 INFO /usr/local/bin/bench schedule
+2020-10-26 23:06:44,087 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 23:06:44,830 INFO /usr/local/bin/bench worker --queue short
+2020-10-26 23:06:44,833 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-26 23:06:45,425 INFO /usr/local/bin/bench worker --queue long
+2020-10-26 23:06:45,445 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-27 00:00:03,079 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-27 00:00:03,079 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-27 06:00:02,886 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-27 06:00:02,886 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-27 12:00:02,941 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-27 12:00:02,941 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-27 18:00:03,262 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-27 18:00:03,262 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-28 00:00:02,892 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-28 00:00:02,893 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-28 06:00:03,364 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-28 06:00:03,364 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-28 12:00:03,571 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-28 12:00:03,576 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-28 18:00:03,387 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-28 18:00:03,387 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-29 00:00:03,388 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-29 00:00:03,389 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-29 06:00:03,186 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-29 06:00:03,187 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-29 12:00:03,380 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-29 12:00:03,380 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-29 18:00:03,210 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-29 18:00:03,210 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 00:00:03,538 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 00:00:03,538 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 06:00:02,992 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 06:00:02,997 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 12:00:02,793 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 12:00:02,794 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 14:21:40,037 INFO /usr/local/bin/bench worker --queue default
+2020-10-30 14:21:40,041 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 14:21:40,120 INFO /usr/local/bin/bench worker --queue long
+2020-10-30 14:21:40,120 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 14:21:40,135 INFO /usr/local/bin/bench worker --queue short
+2020-10-30 14:21:40,135 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 14:21:40,255 INFO /usr/local/bin/bench schedule
+2020-10-30 14:21:40,255 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-30 18:00:03,445 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-30 18:00:03,445 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-31 00:00:02,845 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-31 00:00:02,845 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-31 06:00:02,711 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-31 06:00:02,711 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-31 12:00:02,837 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-31 12:00:02,837 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-10-31 18:00:03,334 INFO /usr/local/bin/bench --verbose --site all backup
+2020-10-31 18:00:03,334 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-01 00:00:03,516 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-01 00:00:03,516 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-01 06:00:03,009 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-01 06:00:03,009 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-01 12:00:02,650 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-01 12:00:02,650 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-01 18:00:02,421 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-01 18:00:02,421 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-02 00:00:02,857 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 00:00:02,858 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-02 06:00:02,826 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 06:00:02,827 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-02 12:00:02,945 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 12:00:02,945 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-02 18:00:02,661 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-02 18:00:02,662 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-03 00:00:03,061 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 00:00:03,061 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-03 06:00:02,863 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 06:00:02,864 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-03 12:00:02,473 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 12:00:02,473 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-03 18:00:03,520 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-03 18:00:03,526 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-04 00:00:02,693 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 00:00:02,694 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-04 06:00:02,989 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 06:00:02,989 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-04 12:00:03,418 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 12:00:03,419 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-04 18:00:03,305 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-04 18:00:03,306 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-05 00:00:03,650 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-05 00:00:03,650 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-05 06:00:02,937 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-05 06:00:02,937 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-05 12:00:03,234 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-05 12:00:03,234 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-05 18:00:03,010 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-05 18:00:03,011 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-06 00:00:03,310 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 00:00:03,310 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-06 06:00:02,921 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 06:00:02,921 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-06 12:00:03,447 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 12:00:03,447 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-06 18:00:03,724 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-06 18:00:03,724 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-07 00:00:03,452 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-07 00:00:03,459 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-07 06:00:02,540 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-07 06:00:02,541 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-07 12:00:03,494 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-07 12:00:03,494 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-07 18:00:03,353 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-07 18:00:03,353 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 00:00:03,182 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-08 00:00:03,182 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:28:08,785 INFO /usr/local/bin/bench restart
+2020-11-08 01:28:08,786 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:28:09,214 DEBUG supervisorctl restart erpnext-workers: erpnext-web:
+2020-11-08 01:28:11,850 INFO /usr/local/bin/bench schedule
+2020-11-08 01:28:11,851 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:28:11,901 INFO /usr/local/bin/bench worker --queue long
+2020-11-08 01:28:11,905 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:28:11,920 INFO /usr/local/bin/bench worker --queue default
+2020-11-08 01:28:11,921 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:28:11,940 INFO /usr/local/bin/bench worker --queue short
+2020-11-08 01:28:11,940 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:30:55,315 INFO /usr/local/bin/bench restart
+2020-11-08 01:30:55,316 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:30:55,553 DEBUG supervisorctl restart erpnext-workers: erpnext-web:
+2020-11-08 01:30:57,744 INFO /usr/local/bin/bench worker --queue short
+2020-11-08 01:30:57,745 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:30:57,797 INFO /usr/local/bin/bench schedule
+2020-11-08 01:30:57,797 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:30:57,815 INFO /usr/local/bin/bench worker --queue long
+2020-11-08 01:30:57,815 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 01:30:57,820 INFO /usr/local/bin/bench worker --queue default
+2020-11-08 01:30:57,820 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 06:00:02,619 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-08 06:00:02,619 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 12:00:02,755 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-08 12:00:02,755 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-08 18:00:03,044 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-08 18:00:03,045 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-09 00:00:02,997 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 00:00:02,997 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-09 06:00:02,970 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 06:00:02,970 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-09 12:00:02,710 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 12:00:02,710 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-09 18:00:02,580 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-09 18:00:02,580 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-10 00:00:03,582 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 00:00:03,583 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-10 06:00:03,292 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 06:00:03,292 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-10 12:00:02,865 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 12:00:02,865 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-10 18:00:02,616 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-10 18:00:02,616 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-11 00:00:03,185 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 00:00:03,185 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-11 06:00:03,029 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 06:00:03,029 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-11 12:00:02,659 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 12:00:02,659 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-11 18:00:03,132 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-11 18:00:03,150 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-12 00:00:03,451 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 00:00:03,452 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-12 06:00:03,443 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 06:00:03,443 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-12 12:00:03,223 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 12:00:03,223 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-12 18:00:03,420 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-12 18:00:03,420 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-13 00:00:02,890 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 00:00:02,890 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-13 06:00:03,605 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 06:00:03,605 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-13 12:00:03,382 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 12:00:03,398 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-13 18:00:03,174 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-13 18:00:03,174 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-14 00:00:03,387 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 00:00:03,388 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-14 06:00:03,063 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 06:00:03,064 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-14 12:00:02,859 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 12:00:02,859 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-14 18:00:02,966 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-14 18:00:02,967 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-15 00:00:03,419 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-15 00:00:03,420 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-15 06:00:03,213 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-15 06:00:03,213 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-15 12:00:03,442 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-15 12:00:03,442 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-15 18:00:03,149 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-15 18:00:03,168 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-16 00:00:03,520 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 00:00:03,521 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-16 06:00:03,033 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 06:00:03,033 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-16 12:00:03,320 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 12:00:03,320 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-16 18:00:03,022 INFO /usr/local/bin/bench --verbose --site all backup
+2020-11-16 18:00:03,023 WARNING bench is installed in editable mode!
+
+This is not the recommended mode of installation for production. Instead, install the package from PyPI with: `pip install frappe-bench`
+
+2020-11-17 03:45:49,259 INFO /home/doaa/.local/bin/bench start

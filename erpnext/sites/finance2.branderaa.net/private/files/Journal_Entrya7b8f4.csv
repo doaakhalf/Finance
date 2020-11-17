@@ -1,0 +1,150 @@
+Entry Type,Series,Company,Posting Date,,,Account (Accounting Entries),Credit (Accounting Entries),Debit (Accounting Entries),Cost Center (Accounting Entries),Party Type (Accounting Entries),Party (Accounting Entries)
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-08-31,1010102,Petty Cash,1010102 - Petty Cash - B ,10261,0,Main - B,,
+,,,,1010402,Prepaid Expenses - Subscriptions,1010402 - Prepaid Expenses - Subscriptions - B ,0,10261,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,10870,0,Main - B,,
+,,,,5030511,Initial cost,5030511 - Initial cost - B ,0,10870,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-09-30,1010102,Petty Cash,1010102 - Petty Cash - B ,1000,0,Main - B,,
+,,,,1010402,Prepaid Expenses - Subscriptions,1010402 - Prepaid Expenses - Subscriptions - B ,0,1000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,18500,0,Main - B,,
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,8000,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3000,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,6000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,1500,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-11,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,0,100000,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,0,50,Main - B,,
+,,,,3010101,Capital - Rakan,3010101 - Capital - Rakan - B ,75000,0,Main - B,,
+,,,,3010102,Capital - Saleh,3010102 - Capital - Saleh - B ,25000,0,Main - B,,
+,,,,3020101,Owners' Current Accounts - Rakan,3020101 - Owners' Current Accounts - Rakan - B ,50,0,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,25010,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,0,25000,Main - B,,
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B ,0,10,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,50,0,Main - B,,
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B ,0,50,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-20,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,15010,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,0,15000,Main - B,,
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B ,0,10,Main - B,,
+,,,,1010403,Deposit Rent Insurance,1010403 - Deposit Rent Insurance - B ,0,5000,Main - B,Customer,Guest
+,,,,1010401,Prepaid Expenses - Rent,1010401 - Prepaid Expenses - Rent - B ,0,22500,Main - B,Customer,Guest
+,,,,1010401,Prepaid Expenses - Rent,1010401 - Prepaid Expenses - Rent - B ,0,2250,Main - B,Customer,Guest
+,,,,1010401,Prepaid Expenses - Rent,1010401 - Prepaid Expenses - Rent - B ,0,1575,Main - B,Customer,Guest
+,,,,2010101,Kadour trading Est.,2010101 - Kadour trading Est. - B ,31325,0,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,29335,0,Main - B,,
+,,,,2010101,Kadour trading Est.,2010101 - Kadour trading Est. - B ,0,29335,Main - B,,
+,,,,1010101,Cash Box,1010101 - Cash Box - B ,1990,0,Main - B,,
+,,,,2010101,Kadour trading Est.,2010101 - Kadour trading Est. - B ,0,1990,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-24,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,20010,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,0,20000,Main - B,,
+,,,,5030509,Bank Fees,5030509 - Bank Fees - B ,0,10,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-30,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,0,2250,Main - B,,
+,,,,1010301,Mazin bin AbdulWahhab Kurdi Law Firm,1010301 - Mazin bin AbdulWahhab Kurdi Law Firm - B ,2250,0,Main - B,Customer,Guest
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,1061.1,0,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,364.45,0,Main - B,,
+,,,,5030401,Communication,5030401 - Communication - B ,0,1425.55,Main - B,,
+,,,,1010301,Mazin bin AbdulWahhab Kurdi Law Firm,1010301 - Mazin bin AbdulWahhab Kurdi Law Firm - B ,0,7500,Main - B,Customer,Guest
+,,,,4010102,Revenue - Branderaa,4010102 - Revenue - Branderaa - B ,7500,0,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-31,2010103,Branderaa,2010103 - Branderaa - B ,8518,0,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,8518,Main - B,,
+,,,,1010101,Cash Box,1010101 - Cash Box - B ,0,1990,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,1990,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,2664,0,Main - B,,
+,,,,5030502,Business trip,5030502 - Business trip - B ,0,2664,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,279,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,279,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,12000,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,12000,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,2000,0,Main - B,,
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,2000,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,18500,0,Main - B,,
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,8000,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3000,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,6000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,1500,Main - B,,
+,,,,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,10000,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,10000,Main - B,Customer,Guest
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-11-02,1010201,Bank - 11771004000101,1010201 - Bank - 11771004000101 - B ,1400,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,0,1400,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-11-30,1020201,Accumulated Depreciation - Leasehold Improvements,1020201 - Accumulated Depreciation - Leasehold Improvements - B ,2808.33,0,Main - B,,
+,,,,5030301,Depreciation-Lease,5030301 - Depreciation-Lease - B ,0,2808.33,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,33700,0,Main - B,,
+,,,,1020101,Leasehold Improvements,1020101 - Leasehold Improvements - B ,0,33700,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,60,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,60,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,500,0,Main - B,,
+,,,,5030401,Communication,5030401 - Communication - B ,0,500,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,10,0,Main - B,,
+,,,,5030504,Stationery,5030504 - Stationery - B ,0,10,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,18500,0,Main - B,,
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,8000,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3000,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,6000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,1500,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-12-31,1010102,Petty Cash,1010102 - Petty Cash - B ,1800,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,1800,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,0,110000,Main - B,,
+,,,,2010501,Due to Related Paries - Ahmed Metwally,2010501 - Due to Related Paries - Ahmed Metwally - B ,110000,0,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,2254,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,1127,Main - B,Customer,Guest
+,,,,5030501,Hospitality,5030501 - Hospitality - B ,0,1127,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,485,0,Main - B,,
+,,,,5030504,Stationery,5030504 - Stationery - B ,0,485,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,250,0,Main - B,,
+,,,,5030403,Post,5030403 - Post - B ,0,250,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,370,0,Main - B,,
+,,,,5030506,Maintenance,5030506 - Maintenance - B ,0,370,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,62,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,62,Main - B,,
+,,,,1020201,Accumulated Depreciation - Leasehold Improvements,1020201 - Accumulated Depreciation - Leasehold Improvements - B ,2808.33,0,Main - B,,
+,,,,5030301,Depreciation-Lease,5030301 - Depreciation-Lease - B ,0,2808.33,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,30,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,30,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,829,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,829,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,1354,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,1354,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,2650,0,Main - B,,
+,,,,5030401,Communication,5030401 - Communication - B ,0,2650,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,1909,0,Main - B,,
+,,,,5030402,Electricity & Water,5030402 - Electricity & Water - B ,0,1909,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3080,0,Main - B,,
+,,,,5030507,Consumable tools,5030507 - Consumable tools - B ,0,3080,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,312,0,Main - B,,
+,,,,5030501,Hospitality,5030501 - Hospitality - B ,0,312,Main - B,Customer,Guest
+,,,,1010401,Prepaid Expenses - Rent,1010401 - Prepaid Expenses - Rent - B ,4200,0,Main - B,,
+,,,,5030202,Rent Office,5030202 - Rent Office - B ,0,4200,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,18500,0,Main - B,,
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,8000,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3000,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,6000,Main - B,Customer,Guest
+,,,,5010401,Subcontractors expenses,5010401 - Subcontractors expenses - B ,0,1500,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3400,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3400,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,250,0,Main - B,,
+,,,,5020101,Marketing Exp,5020101 - Marketing Exp - B ,0,250,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,275,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,275,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,170,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,170,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,500,0,Main - B,,
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,500,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,1000,0,Main - B,,
+,,,,5030402,Electricity & Water,5030402 - Electricity & Water - B ,0,1000,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,350,0,Main - B,,
+,,,,3020101,Owners' Current Accounts - Rakan,3020101 - Owners' Current Accounts - Rakan - B ,0,350,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-08-31,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,800,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,800,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,800,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,800,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,800,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,800,0,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-03,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,5290,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,5290,0,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-10-04,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3811.26,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3811.26,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,1,3811.26,Main - B,Customer,Guest
+,,,,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,2,5706.88,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3811.26,0,Main - B,,
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,5706.88,0,Main - B,,
+Journal Entry,ACC-JV-.YYYY.-,Branderaa,2016-11-08,1010601,Due from Related Parties - Se7rek,1010601 - Due from Related Parties - Se7rek - B ,0,3127.79,Main - B,Customer,Guest
+,,,,1010102,Petty Cash,1010102 - Petty Cash - B ,3127.79,0,Main - B,,

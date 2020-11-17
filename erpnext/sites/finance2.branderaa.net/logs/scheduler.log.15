@@ -1,0 +1,4 @@
+2020-11-14 18:16:17,848 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-14 18:16:17,973 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for finance2.branderaa.net
+2020-11-14 18:16:18,104 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for finance2.branderaa.net
+2020-11-14 18:16:18,178 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for finance2.branderaa.net

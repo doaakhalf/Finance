@@ -1,0 +1,20 @@
+Account Name,Parent Account,Account Number,Is Group,Account Type,Root Type
+Application of Funds (Assets) - B,,1000000,1,,Asset
+Current Assets- B,Application of Funds (Assets) - B,1010000,1,,Asset
+Cash Accounts,Current Assets- B,1010100,1,Cash,Asset
+Cash Box,Cash Accounts,1010101,0,Cash,Asset
+Petty Cash,Cash Accounts,1010102,0,Cash,Asset
+Bank Accounts,Current Assets- B,1010200,1,Bank,Asset
+Bank - 11771004000101,Bank Accounts,1010201,0,Bank,Asset
+Bank - 14365306000110,Bank Accounts,1010202,0,Bank,Asset
+Accounts Receivable,Current Assets- B,1010300,1,Receivable,Asset
+Mazin bin AbdulWahhab Kurdi Law Firm,Accounts Receivable,1010301,0,Receivable,Asset
+Noura Pharmacy,Accounts Receivable,1010302,0,Receivable,Asset
+Dijon,Accounts Receivable,1010303,0,Receivable,Asset
+Al-Masah,Accounts Receivable,1010304,0,Receivable,Asset
+Dar Al-Teb,Accounts Receivable,1010305,0,Receivable,Asset
+Ajwaa Al-Khayal,Accounts Receivable,1010306,0,Receivable,Asset
+Defense,Accounts Receivable,1010307,0,Receivable,Asset
+Al-Mazra3a,Accounts Receivable,1010308,0,Receivable,Asset
+Technical Company For Paints Works,Accounts Receivable,1010309,0,Receivable,Asset
+Comprehensive preventive maintenance,Accounts Receivable,1010310,0,Receivable,Asset
